@@ -1,0 +1,5 @@
+Produsele comandate de mai mult de  1 ori 
+
+ idClient -> nr comenzi
+
+4 -> 1

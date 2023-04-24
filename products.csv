@@ -1,0 +1,955 @@
+Title,nota,Calories,Protein,Fat,Sodium,Price
+Cucumber Yum Yum Cocktail , 5.0, 251.0, 1.0, 0.0, 4.0, 60.0
+Thai-Inspired Shrimp Stir-Fry , 4.375, 314.0, 19.0, 15.0, 716.0, 62.0
+Crown Roast of Pork with Lady Apples and Shallots , 4.375, 1104.0, 54.0, 70.0, 1121.0, 98.0
+Berry Tart with Ginger Cream , 3.75, 732.0, 23.0, 18.0, 509.0, 20.0
+Spicy Oven-Roasted Potatoes , 4.375, 528.0, 7.0, 31.0, 243.0, 62.0
+Escarole Soup with Garbanzo Beans and Pasta , 3.75, 308.0, 11.0, 10.0, 1067.0, 40.0
+Festival , 0.0, 219.0, 0.0, 8.0, 12.0, 16.0
+Strawberry Daiquiri , 2.5, 195.0, 1.0, 0.0, 7.0, 79.0
+Banana Chocolate Walnut Cake , 3.125, 538.0, 11.0, 14.0, 225.0, 98.0
+Nectarine Salsa , 3.75, 68.0, 2.0, 0.0, 146.0, 69.0
+Alternative Oatmeal-Raisin Cookies , 4.375, 107.0, 1.0, 5.0, 48.0, 51.0
+Classic Escargots à la Bourguignonne , 4.375, 168.0, 6.0, 16.0, 26.0, 19.0
+Pizza Dough , 4.375, 175.0, 5.0, 14.0, 568.0, 96.0
+Oat and Walnut Buttermilk Braid , 4.375, 337.0, 11.0, 10.0, 406.0, 35.0
+Steamed Mussels with Chipoltes and Coconut Milk , 4.375, 369.0, 23.0, 23.0, 539.0, 78.0
+Hurricane Marilyn's Couscous and Lentil Salad , 3.125, 383.0, 16.0, 14.0, 468.0, 10.0
+Rhubarb Compote , 4.375, 290.0, 2.0, 0.0, 10.0, 86.0
+Polenta With Mushrooms , 0.0, 411.0, 12.0, 22.0, 1050.0, 34.0
+Blue Cheese Coleslaw , 2.5, 101.0, 5.0, 4.0, 193.0, 94.0
+Coconut Mint Sorbet , 5.0, 241.0, 2.0, 17.0, 10.0, 81.0
+Chocolate Plum Cake , 5.0, 3801.0, 626.0, 42.0, 20492.0, 69.0
+Flank Steak with Chimichurri , 4.375, 459.0, 37.0, 32.0, 830.0, 87.0
+Leek and Cannellini Bean Soup , 4.375, 631.0, 29.0, 40.0, 333.0, 37.0
+Grilled Pork Chops with Italian Relish , 3.75, 335.0, 31.0, 20.0, 86.0, 83.0
+Bittersweet Chocolate Frosting , 4.375, 314.0, 3.0, 26.0, 17.0, 59.0
+Lentil and Rice Salad , 4.375, 314.0, 7.0, 11.0, 303.0, 91.0
+Gialina's Kale & Farro Salad with Avocado , 3.75, 687.0, 30.0, 38.0, 1479.0, 82.0
+Black Pepper Cornmeal Crisps , 1.875, 39.0, 1.0, 2.0, 86.0, 24.0
+Vegetable-and Ricotta- Stuffed Collard Rolls with Tomato Sauce , 4.375, 593.0, 12.0, 36.0, 189.0, 82.0
+Sautéed Collard Greens with Caramelized Miso Butter , 477.0, 78.0, 4.375, 144.0, 3.0, 12.0
+Coffee-Bean Granita , 4.375, 133.0, 0.0, 0.0, 7.0, 41.0
+Turkey with Chardonnay and Herbs , 4.375, 2056.0, 166.0, 136.0, 827.0, 44.0
+Grilled Pork Tenderloin with Fresh Cherry Chutney , 4.375, 428.0, 31.0, 9.0, 96.0, 87.0
+Banana-Cream Parfaits , 2.5, 728.0, 12.0, 17.0, 49.0, 64.0
+Curried Beef and and Sugar Snap Peas Over Rice Noodles , 3.75, 924.0, 74.0, 60.0, 1061.0, 25.0
+Butter-Braised Root Vegetables and Green Beans , 4.375, 334.0, 9.0, 10.0, 1172.0, 13.0
+Chocolate Crunch Layer Cake with Milk Chocolate Frosting , 2.5, 940.0, 91.0, 61.0, 831.0, 37.0
+Sausage-Wrapped Lamb Chops with Tapanade Butter , 0.0, 340.0, 16.0, 29.0, 359.0, 59.0
+Chocolate Semifreddo with Chile-Chocolate Sauce , 3.75, 352.0, 9.0, 28.0, 44.0, 86.0
+Coconut-Mango Rice Noodle Salad , 4.375, 641.0, 19.0, 38.0, 909.0, 35.0
+Anchovy Lemon Dip with Green Beans , 4.375, 228.0, 6.0, 19.0, 448.0, 18.0
+Chicken Marsala with Sage , 4.375, 494.0, 55.0, 24.0, 129.0, 99.0
+Bourbon and Brown Sugar Glazed Turkey , 4.375, 2607.0, 132.0, 188.0, 5967.0, 73.0
+Spicy Caramel Apple Sauce , 4.75, 431.0, 1.0, 11.0, 15.0, 78.0
+Pastry Crust Dough , 5.0, 247.0, 3.0, 17.0, 198.0, 29.0
+Potato and Fennel Soup Hodge , 3.75, 165.0, 6.0, 7.0, 165.0, 62.0
+Pasta with Arugula and Prosciutto , 4.375, 666.0, 34.0, 31.0, 878.0, 30.0
+Indian Clarified Butter , 4.375, 270.0, 0.0, 31.0, 4.0, 49.0
+Coffee-Glazed Doughnuts , 4.375, 384.0, 5.0, 20.0, 358.0, 49.0
+Spiced Chocolate Chunk Walnut Cookies , 4.375, 228.0, 3.0, 14.0, 130.0, 77.0
+Grilled Vegetable Salad with Lemon-Mustard Vinaigrette , 5.0, 303.0, 5.0, 25.0, 43.0, 23.0
+Asparagus and Dill Avgolemono Soup , 4.375, 203.0, 13.0, 9.0, 294.0, 21.0
+Caramel Sauce , 5.0, 407.0, 1.0, 10.0, 34.0, 18.0
+Grilled Bell Peppers with Criolla Sauce , 0.0, 92.0, 1.0, 6.0, 325.0, 18.0
+Fried Chicken with Spring Salad , 4.375, 1150.0, 52.0, 101.0, 1179.0, 12.0
+Jamaican Jerk Chicken , 0.0, 627.0, 31.0, 44.0, 1299.0, 52.0
+Bacon-Wrapped Turkey Breast with Hazelnut Mole , 3.75, 599.0, 29.0, 24.0, 201.0, 30.0
+Sour Cream Ice Cream , 3.75, 289.0, 3.0, 24.0, 31.0, 93.0
+Garlic French Vinaigrette , 1.25, 394.0, 2.0, 41.0, 58.0, 84.0
+Grilled Marinated London Broil , 4.375, 524.0, 19.0, 26.0, 536.0, 44.0
+Broiled Cod With Fennel and Orange , 0.0, 476.0, 40.0, 20.0, 703.0, 36.0
+Green Tea Ice Cream , 3.125, 228.0, 5.0, 18.0, 108.0, 38.0
+Thai Green Papaya Salad , 5.0, 58.0, 2.0, 2.0, 661.0, 67.0
+Indian-Style Chicken with Ginger and Curry , 4.375, 376.0, 54.0, 14.0, 121.0, 19.0
+Ruffled Pasta with Herbed Ricotta and Pine Nut Brown Butter , 4.375, 520.0, 32.0, 38.0, 482.0, 80.0
+Wild Garlic and White Bean Curry , 5.0, 237.0, 7.0, 8.0, 732.0, 51.0
+Buttermilk Cornmeal Pancakes , 4.375, 586.0, 32.0, 32.0, 1585.0, 29.0
+Cucumber Mint Tea Sandwiches , 4.375, 59.0, 2.0, 3.0, 71.0, 31.0
+Apple Walnut Crisp , 4.375, 492.0, 5.0, 20.0, 204.0, 45.0
+Apple and Raisin Slaw , 3.125, 102.0, 4.0, 4.0, 48.0, 72.0
+Chicken Caesar Salad With Crispy Kale , 4.375, 790.0, 32.0, 45.0, 1287.0, 69.0
+Thyme Honey Glazed Ham , 4.375, 747.0, 49.0, 26.0, 2708.0, 75.0
+Apple Ginger Chutney , 5.0, 305.0, 2.0, 0.0, 238.0, 40.0
+Cornish Game Hens with Mustard and Rosemary , 4.375, 1098.0, 12.0, 69.0, 221.0, 91.0
+Blueberry Ice Cream , 4.375, 273.0, 2.0, 17.0, 49.0, 42.0
+Poached Fish with Spinach in Chili-Tomato Sauce , 5.0, 320.0, 33.0, 12.0, 380.0, 40.0
+Chocolate-Almond Cupcakes with Fluffy Coconut Frosting , 4.375, 664.0, 75.0, 31.0, 161.0, 82.0
+Rustic Pear Tart with Late-Harvest Riesling , 3.75, 457.0, 4.0, 20.0, 202.0, 97.0
+Spring Feeling , 0.0, 121.0, 0.0, 0.0, 2.0, 13.0
+Coconut Flan , 4.375, 337.0, 10.0, 14.0, 164.0, 42.0
+Capia, 4.75, 431.0, 1.0, 11.0, 15.0, 78.0
+Mushroom and Brown Rice Veggie Burger , 4.375, 859.0, 8.0, 50.0, 486.0, 49.0
+Beef Tenderloin with Garlic Horseradish Cream , 5.0, 688.0, 3.0, 1.0, 18.0, 50.0
+Smoked Whiskey Wings , 5.0, 422.0, 33.0, 25.0, 449.0, 17.0
+Boursin and Fennel Seed Risotto , 3.75, 421.0, 13.0, 13.0, 172.0, 17.0
+Cajun Chicken with Capers and Lemon , 3.75, 154.0, 7.0, 8.0, 129.0, 40.0
+Tuscan Turkey Sauce and Pasta , 3.75, 2089.0, 100.0, 161.0, 2268.0, 84.0
+Garlic Soy Chicken , 5.0, 537.0, 7.0, 47.0, 201.0, 23.0
+Rice Pilaf with Pistachios and Golden Raisins , 4.375, 282.0, 8.0, 11.0, 123.0, 61.0
+Sex on the Beach , 3.75, 132.0, 1.0, 0.0, 2.0, 91.0
+Nutty Brown Rice , 4.375, 589.0, 47.0, 19.0, 1599.0, 13.0
+Cranberry-Raspberry Compote , 4.375, 171.0, 1.0, 1.0, 9.0, 35.0
+Bee's Knees , 0.0, 136.0, 0.0, 0.0, 1.0, 45.0
+Oatmeal Date Cookies , 3.75, 119.0, 2.0, 4.0, 117.0, 100.0
+Guinness BBQ Sauce , 4.375, 168.0, 2.0, 1.0, 1493.0, 86.0
+French Onion Bites , 0.0, 49.0, 2.0, 2.0, 78.0, 96.0
+Quick Apple Küchen , 3.125, 508.0, 4.0, 22.0, 511.0, 50.0
+Ginger Cheesecake with Sour Cherry Compote , 4.375, 685.0, 31.0, 37.0, 1239.0, 17.0
+Baked Oysters in Jackets with Bacon Cognac Butter , 4.375, 115.0, 6.0, 8.0, 115.0, 98.0
+Chicken Liver Pâté with Figs and Walnuts , 4.375, 423.0, 9.0, 40.0, 342.0, 82.0
+Cabbage Slaw , 4.375, 27.0, 1.0, 0.0, 389.0, 13.0
+Quick Oat Bran and Banana Muffins , 4.375, 220.0, 4.0, 11.0, 200.0, 58.0
+Avocado Mayonnaise , 3.75, 379.0, 3.0, 38.0, 181.0, 21.0
+Rosemary-Balsamic Onions , 5.0, 163.0, 1.0, 14.0, 536.0, 53.0
+Strawberry Lemonade , 0.0, 78.0, 0.0, 0.0, 5.0, 66.0
+Semolina and Spinach Gratin , 3.75, 294.0, 16.0, 13.0, 1443.0, 97.0
+Chicken Parmesan , 4.375, 1841.0, 114.0, 127.0, 3990.0, 72.0
+Pork Chili with Tomatoes , 4.375, 756.0, 11.0, 39.0, 246.0, 69.0
+Nancy's Falafel Pistachios , 0.0, 718.0, 46.0, 56.0, 837.0, 99.0
+Roast Prime Ribs of Beef with Cracked Pepper Crust , 4.375, 1958.0, 73.0, 81.0, 7546.0, 60.0
+Milk Punch with Brandy and Rum , 0.0, 160.0, 2.0, 7.0, 34.0, 52.0
+Lemon Aïoli , 3.75, 342.0, 1.0, 38.0, 207.0, 12.0
+Stir-Fried Sugar Snap Peas and Baby Carrots , 3.75, 33.0, 1.0, 1.0, 12.0, 39.0
+Buckwheat Crêpes With Creamy Leeks and Baked Eggs , 3.75, 1168.0, 80.0, 69.0, 1933.0, 42.0
+Spanish Potato Omelet (Tortilla de Papa Espanola) with Romesco Sauce , 4.375, 532.0, 17.0, 18.0, 767.0, 54.0
+Rosii, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0
+Summer Garden Tortelloni , 4.375, 379.0, 15.0, 18.0, 628.0, 95.0
+Cucumber Salad with Mustard Dressing , 3.125, 84.0, 3.0, 5.0, 380.0, 74.0
+Wild Blueberry Pie with Almond Crumble Topping , 4.375, 338.0, 7.0, 12.0, 348.0, 100.0
+Coke-Braised Pork Carnitas , 5.0, 1388.0, 20.0, 87.0, 922.0, 30.0
+Five-Spice Pork and Green Bean Stir-Fry , 4.375, 427.0, 24.0, 25.0, 953.0, 54.0
+, 0.0, 0.0, 0.0, NaN, 0.0, 0.0
+Mozzarella and Tomato Sauce Omelets , 5.0, 438.0, 23.0, 34.0, 794.0, 15.0
+Olive Oil and Garlic Whipped Potatoes , 4.375, 522.0, 25.0, 27.0, 1201.0, 68.0
+Coconut Pound Cake , 4.375, 299.0, 4.0, 16.0, 146.0, 38.0
+Chocolate Spoonful Cake , 5.0, 8858.0, 377.0, 776.0, 2584.0, 40.0
+Pork Cassoulet with Pork Confit and Winter Tomato Sauce , 3.75, 393.0, 23.0, 22.0, 1088.0, 14.0
+Baked Figs with Grand Marnier and Whipped Cream , 4.375, 321.0, 2.0, 15.0, 18.0, 38.0
+Corn Pudding , 3.75, 192.0, 6.0, 8.0, 336.0, 88.0
+Chocolate-Hazelnut Pudding , 4.375, 414.0, 7.0, 24.0, 155.0, 71.0
+Brazilian Fish Stew (Moqueca Capixaba) , 5.0, 325.0, 40.0, 9.0, 1004.0, 61.0
+Golden Pan-Fried Fish , 5.0, 415.0, 48.0, 15.0, 1333.0, 14.0
+Pan Bagna , 3.75, 334.0, 19.0, 20.0, 350.0, 35.0
+Cod Fritters with Tartar Sauce , 4.375, 83.0, 3.0, 7.0, 63.0, 78.0
+Pasta with Three Beans and Bacon , 3.75, 408.0, 21.0, 17.0, 558.0, 89.0
+Lemon Sun Cakes with Berries and Cream , 4.375, 357.0, 5.0, 17.0, 188.0, 65.0
+Wilted Greens with Garlic and Anchovies , 5.0, 90.0, 1.0, 9.0, 136.0, 89.0
+Crunchy String Bean Salad with Red Onion and Prosciutto , 4.375, 223.0, 6.0, 18.0, 737.0, 41.0
+Savory Parmesan Pain Perdu with Poached Eggs and Greens , 4.375, 490.0, 27.0, 32.0, 738.0, 49.0
+Green Bean and Radish Salad , 3.125, 239.0, 3.0, 21.0, 13.0, 30.0
+Cilantro Mint Chutney , 4.375, 53.0, 3.0, 1.0, 889.0, 36.0
+Blackberry Moonshine , 0.0, 41.0, 0.0, 0.0, 0.0, 44.0
+Mojo Criollo , 0.0, 172.0, 1.0, 17.0, 319.0, 20.0
+Yellow Tomato Soup , 4.375, 902.0, 61.0, 68.0, 666.0, 29.0
+Cornish Hens with Sweet Vermouth Garlic Glaze , 3.75, 740.0, 1.0, 10.0, 16.0, 98.0
+Balsamic-Roasted Acorn Squash with Hot Chiles and Honey , 3.75, 248.0, 2.0, 14.0, 438.0, 46.0
+Collard Greens with Red Onions and Bacon , 4.375, 203.0, 9.0, 12.0, 727.0, 67.0
+Strawberry Cream Cheese Tart , 4.375, 629.0, 36.0, 49.0, 243.0, 27.0
+Meatless Monte Cristo Sandwiches , 4.375, 773.0, 14.0, 30.0, 233.0, 52.0
+Pesce Per Due , 0.0, 484.0, 91.0, 10.0, 2724.0, 77.0
+Raspberry Mint Vinegar , 5.0, 169.0, 4.0, 2.0, 27.0, 51.0
+Pastry Dough , 5.0, 287.0, 4.0, 19.0, 128.0, 80.0
+Haddock in Charmoula Sauce , 4.375, 457.0, 40.0, 24.0, 1271.0, 58.0
+Classic Gazpacho , 4.375, 138.0, 2.0, 10.0, 24.0, 85.0
+Chicken Salad Tea Sandwiches with Smoked Almonds , 4.375, 220.0, 10.0, 13.0, 277.0, 65.0
+Hoppin' John Risotto , 4.375, 649.0, 35.0, 52.0, 791.0, 47.0
+Pâte Brisée , 4.375, 234.0, 3.0, 16.0, 99.0, 19.0
+Cold Sesame Egg Noodles , 4.375, 432.0, 10.0, 20.0, 1845.0, 43.0
+Spinach and Mint Soup , 4.375, 267.0, 8.0, 19.0, 209.0, 21.0
+Roast Beef Tenderloin with Wasabi-Garlic Cream , 4.375, 689.0, 18.0, 68.0, 307.0, 61.0
+Brie and Saffron Phyllo Tartlets , 3.125, 47.0, 2.0, 4.0, 52.0, 52.0
+Prepared Horseradish , 2.5, 120.0, 3.0, 2.0, 3339.0, 37.0
+Cajun Shrimp Tacos with Tomatillo Salsa , 3.75, 318.0, 18.0, 24.0, 719.0, 24.0
+Grilled Chicken Moroccan Style , 3.75, 1422.0, 64.0, 105.0, 2657.0, 63.0
+Cranberry and Dried-Cherry Sauce , 5.0, 123.0, 0.0, 0.0, 9.0, 48.0
+Sesame Quail Eggs , 4.375, 68.0, 5.0, 4.0, 491.0, 24.0
+Lamb and Broccoli Stew , 3.75, 1320.0, 77.0, 110.0, 212.0, 86.0
+Thyme Pesto , 4.375, 851.0, 17.0, 85.0, 427.0, 72.0
+Balsamic Berries Over Vanilla Ice Cream , 5.0, 170.0, 2.0, 6.0, 4.0, 77.0
+Israeli Yogurt "Cheese" with Pita and Olives , 5.0, 155.0, 6.0, 10.0, 290.0, 65.0
+Coffee S'mores Pie , 4.375, 449.0, 4.0, 29.0, 66.0, 18.0
+Blackberry and Blueberry–Ginger Yogurt Pots , 0.0, 178.0, 7.0, 5.0, 40.0, 81.0
+Banana Daiquiri , 0.0, 289.0, 1.0, 0.0, 10.0, 75.0
+Pear and Ricotta Blintzes with Spiced Maple-Butter Sauce , 3.75, 868.0, 41.0, 54.0, 314.0, 23.0
+Reuben Bread Pudding , 3.75, 447.0, 27.0, 29.0, 1504.0, 89.0
+Chicken Breasts with Leeks and Mushrooms , 3.75, 491.0, 40.0, 25.0, 276.0, 35.0
+Roasted Butternut Squash Soup , 3.75, 192.0, 7.0, 7.0, 77.0, 100.0
+Pastry Cream , 1.25, 206.0, 5.0, 9.0, 43.0, 96.0
+Cardamom-Almond Custard , 4.375, 403.0, 10.0, 28.0, 58.0, 91.0
+Roasted Asparagus with Balsamic Vinegar , 4.375, 82.0, 5.0, 4.0, 6.0, 16.0
+Sticky Date and Almond Bread Pudding with Amaretto Zabaglione , 3.75, 568.0, 6.0, 37.0, 81.0, 58.0
+Gruyère and Parmesan Cheese Soufflé , 4.375, 651.0, 29.0, 38.0, 2640.0, 63.0
+Baked Polenta with Onions and Bacon , 3.75, 469.0, 16.0, 28.0, 620.0, 41.0
+Roast Chicken with Lemon and Thyme , 3.75, 1783.0, 77.0, 115.0, 3982.0, 58.0
+Chipotle Sauce , 4.375, 159.0, 4.0, 11.0, 128.0, 42.0
+Middle Eastern Sesame Lamb Meatballs with Minted Yogurt Dip , 4.375, 82.0, 4.0, 5.0, 116.0, 35.0
+Poached Oysters in Fennel-Saffron Soup , 4.375, 396.0, 17.0, 31.0, 913.0, 95.0
+Spanish Pork Braise , 4.375, 646.0, 32.0, 38.0, 2220.0, 55.0
+Pepper-Crusted Steak with Horseradish Cream on Grilled Garlic Crostini , 5.0, 131.0, 9.0, 10.0, 214.0, 33.0
+Pluot and Prosecco Fizz , 5.0, 79.0, 1.0, 0.0, 1.0, 18.0
+Seafood Salad with Collard Greens Slaw , 3.75, 327.0, 37.0, 12.0, 1368.0, 88.0
+Tomato Ginger Vinaigrette , 3.75, 354.0, 1.0, 36.0, 51.0, 84.0
+Puebla Chicken and Potato Stew , 2.5, 728.0, 60.0, 46.0, 187.0, 39.0
+Oven-Braised Beef with Tomato Sauce and Garlic , 3.75, 2380.0, 199.0, 160.0, 1137.0, 26.0
+Three-Onion Stuffing , 4.375, 280.0, 10.0, 10.0, 260.0, 91.0
+Turkey Giblet Stock , 0.0, 119.0, 17.0, 5.0, 149.0, 64.0
+Honey-Glazed Rack of Lamb , 4.375, 1387.0, 64.0, 61.0, 1162.0, 64.0
+Crisp Braised Pork Shoulder , 3.75, 889.0, 63.0, 64.0, 1609.0, 47.0
+Pastry Dough , 5.0, 1405.0, 17.0, 96.0, 597.0, 55.0
+Salami and Pickle Grilled Cheese , 5.0, 851.0, 54.0, 36.0, 907.0, 63.0
+Grilled Rib-Eye Steaks with Parsley-Garlic Butter , 4.375, 719.0, 42.0, 40.0, 1931.0, 79.0
+Mama Lucia's Chicken Cacciatore , 3.75, 1196.0, 93.0, 74.0, 827.0, 70.0
+Beet and Carrot Salad with Coriander and Sesame Salt , 4.375, 139.0, 2.0, 11.0, 320.0, 50.0
+Seared Tuna with Wasabi-Coconut Sauce and Roasted-Pepper Rice Pilaf , 4.375, 546.0, 56.0, 33.0, 323.0, 90.0
+Oil-Poached Tuna with Escarole and Lima Beans , 4.375, 403.0, 42.0, 15.0, 480.0, 48.0
+Orange-Balsamic Dressing , 3.75, 187.0, 0.0, 18.0, 4.0, 24.0
+Jalapeño Lime Vinaigrette , 3.125, 167.0, 0.0, 18.0, 0.0, 51.0
+Ginger-Cream Cheese Icing , 4.375, 258.0, 1.0, 13.0, 64.0, 72.0
+Corn and Lobster Chowder , 4.375, 506.0, 29.0, 26.0, 1117.0, 98.0
+Five-Spice Pork Stir-Fry with Soba Noodles , 4.375, 744.0, 59.0, 52.0, 424.0, 62.0
+Hummus and Crudités , 3.125, 220.0, 2.0, 21.0, 8.0, 68.0
+Cider-Glazed Carrots , 3.125, 87.0, 1.0, 3.0, 81.0, 68.0
+Parmesan-Crusted Lemon Chicken , 3.75, 504.0, 62.0, 19.0, 425.0, 25.0
+Chili-Baked Ribs , 3.75, 1592.0, 136.0, 107.0, 927.0, 36.0
+Raisin and Almond Tartlets , 0.0, 101.0, 1.0, 7.0, 57.0, 40.0
+Broccoli and Cheddar Skillet Flan , 3.75, 427.0, 15.0, 26.0, 772.0, 24.0
+Braised Chicken Teriyaki , 4.375, 1252.0, 63.0, 94.0, 1317.0, 23.0
+Chinese-Style Spinach and Mushroom Soup , 4.375, 152.0, 12.0, 9.0, 1305.0, 47.0
+Tuna Pasta Salad , 65.0, 4.375, 498.0, 20.0, 25.0, 394.0
+Melon with Coconut Milk , 2.5, 174.0, 2.0, 7.0, 104.0, 19.0
+Fresh Corn and Basil Cornbread , 3.75, 434.0, 9.0, 15.0, 592.0, 80.0
+Dijon and Tarragon Grilled Chicken , 4.375, 1133.0, 69.0, 76.0, 917.0, 29.0
+Cranberry and Horseradish Relish , 4.375, 187.0, 2.0, 3.0, 219.0, 21.0
+Creamy Stone-Ground Grits , 5.0, 155.0, 3.0, 6.0, 315.0, 83.0
+Wild Mushroom and Spinach Stuffing , 4.375, 457.0, 11.0, 25.0, 941.0, 85.0
+Wild Rice-Stuffed Grape Leaves , 3.75, 222.0, 5.0, 14.0, 7.0, 78.0
+Spiced Salad Dressing , 4.375, 336.0, 0.0, 36.0, 246.0, 10.0
+Hazelnut and Almond Macaroons with Orange Semifreddo , 4.375, 523.0, 27.0, 16.0, 672.0, 34.0
+Pizza Dough Rounds , 5.0, 250.0, 9.0, 6.0, 463.0, 94.0
+Glazed and Lacquered Roast Turkey , 4.375, 681.0, 28.0, 43.0, 1360.0, 34.0
+Summer Strawberry Jam , 3.75, 315.0, 3.0, 1.0, 5.0, 67.0
+Pork Chops with Mustard Crust , 3.75, 659.0, 41.0, 53.0, 461.0, 13.0
+Triple-Berry Margaritas , 5.0, 262.0, 1.0, 1.0, 8.0, 66.0
+Curried Peanut Soup , 4.375, 490.0, 18.0, 29.0, 299.0, 43.0
+Roast Beef Sandwiches with Blue Cheese Dressing , 4.375, 379.0, 24.0, 29.0, 324.0, 51.0
+Beef Tenderloin with Goat Cheese Sauce , 3.75, 788.0, 11.0, 73.0, 509.0, 93.0
+Egg-in-a-Hole Sandwich with Bacon and Cheddar , 5.0, 794.0, 10.0, 48.0, 484.0, 99.0
+Greens and Grains Scramble , 5.0, 335.0, 15.0, 24.0, 1068.0, 84.0
+Mini Pizzas , 4.375, 185.0, 8.0, 9.0, 364.0, 45.0
+Short Ribs Braised in Coffee Ancho Chile Sauce , 3.75, 997.0, 55.0, 69.0, 2019.0, 61.0
+Blue Cheese Dressing , 3.75, 238.0, 8.0, 20.0, 521.0, 87.0
+Orange-Honey Sauce , 4.375, 295.0, 6.0, 14.0, 75.0, 32.0
+Cranberry and Celery Relish , 3.125, 222.0, 2.0, 3.0, 28.0, 70.0
+Garlic and Rosemary Roasted Pork , 3.75, 422.0, 22.0, 31.0, 103.0, 96.0
+Boston Marathon Chili , 4.375, 448.0, 29.0, 29.0, 391.0, 84.0
+Wild Mushroom Lasagne , 4.375, 998.0, 50.0, 53.0, 2409.0, 97.0
+Orange-Almond Shortcakes with Cranberry Parfait , 4.375, 678.0, 7.0, 34.0, 380.0, 59.0
+Braised Veal Shanks with Bacon-Parmesan Crumbs , 4.375, 818.0, 97.0, 33.0, 11919.0, 25.0
+Fried Sage Leaves , 3.75, 422.0, 0.0, 47.0, 0.0, 47.0
+Honey and Vinegar-Braised Short Ribs with Spinach , 0.0, 2308.0, 48.0, 115.0, 1908.0, 49.0
+Smokin' Rub , 1.25, 48.0, 2.0, 1.0, 99.0, 84.0
+Orange Braised Chicken Thighs with Green Olives , 3.75, 782.0, 43.0, 53.0, 544.0, 60.0
+Sautéed Collard Greens with Caramelized Miso Butter , 4.375, 144.0, 3.0, 12.0, 477.0, 78.0
+Matzoh Baklava , 4.375, 563.0, 49.0, 24.0, 1439.0, 50.0
+Bittersweet Chocolate-Orange Fondue , 4.375, 833.0, 41.0, 53.0, 617.0, 49.0
+Gratineed Gnocchi with Spinach and Ricotta , 3.75, 338.0, 14.0, 14.0, 731.0, 91.0
+Peaches in Ginger Syrup , 4.375, 102.0, 0.0, 0.0, 2.0, 18.0
+Aji Amarillo-Pineapple Salsa , 4.375, 60.0, 1.0, 0.0, 5.0, 70.0
+Cumin Coleslaw , 3.125, 146.0, 2.0, 12.0, 130.0, 77.0
+Strawberry and Peach Sangria , 5.0, 253.0, 1.0, 0.0, 12.0, 59.0
+Pistachio Crisps with Mascarpone Cheese and Grape Compote , 4.375, 391.0, 5.0, 20.0, 168.0, 14.0
+Fried Eggs on Corn Tortillas with Two Salsas (Huevos Divorciados) , 4.375, 389.0, 15.0, 31.0, 1315.0, 25.0
+Zucchini Ginger Cupcakes , 4.375, 381.0, 5.0, 23.0, 399.0, 30.0
+Dark Ginger Rye Cake With Yogurt and Honey , 3.75, 5368.0, 150.0, 517.0, 829.0, 76.0
+Drunken Beans , 3.75, 296.0, 8.0, 23.0, 1564.0, 83.0
+Date and Walnut Phyllo Rolls with Greek Yogurt and Honey , 5.0, 383.0, 4.0, 15.0, 109.0, 76.0
+Lime-Spiked Seafood with Roasted Sweet Potatoes , 3.75, 674.0, 25.0, 53.0, 930.0, 13.0
+Boneless Chicken Breasts with Red Chili Sauce , 4.375, 229.0, 34.0, 6.0, 958.0, 77.0
+Baked Fish with Thai Lemon Mint Sauce , 3.125, 427.0, 34.0, 21.0, 556.0, 55.0
+Matcha Affogato With Green Tea Ice Cream , 0.0, 167.0, 3.0, 8.0, 121.0, 55.0
+Avocado Soup with Ancho Cream , 3.75, 223.0, 3.0, 20.0, 28.0, 49.0
+Baked Hawaiian Islands , 4.375, 966.0, 22.0, 72.0, 1044.0, 22.0
+Fried Rice with Vegetables and Basil , 3.125, 314.0, 6.0, 11.0, 344.0, 54.0
+Thai Vegetables , 3.75, 67.0, 2.0, 4.0, 66.0, 52.0
+Striped Bass with Saffron Vegetables and Spiced Broccoli Rabe , 3.75, 544.0, 11.0, 32.0, 112.0, 16.0
+Black Cod with Olives and Potatoes in Parchment , 4.375, 245.0, 26.0, 12.0, 793.0, 42.0
+Chicken Key Lime Curry , 4.375, 999.0, 36.0, 52.0, 987.0, 68.0
+Wild Rice with Roasted Peppers and Toasted Almonds , 3.75, 283.0, 11.0, 12.0, 544.0, 48.0
+Grilled Filet Mignon with Brandy Mustard Sauce , 4.375, 645.0, 28.0, 55.0, 1013.0, 33.0
+Skillet Cornbread With Chives , 0.0, 289.0, 5.0, 15.0, 440.0, 47.0
+Crisp Spiced Nuts , 3.75, 352.0, 7.0, 31.0, 170.0, 100.0
+Pasta Bolognese , 4.375, 718.0, 8.0, 60.0, 179.0, 95.0
+Fresh Tomato Sauce , 3.125, 139.0, 1.0, 14.0, 296.0, 60.0
+Herb Salad Spring Rolls with Spicy Peanut Sauce , 4.375, 224.0, 8.0, 3.0, 377.0, 52.0
+Crisp Wild Rice Griddlecakes with Golden Caviar and Sour Cream , 3.75, 33.0, 1.0, 2.0, 6.0, 65.0
+Oyster Stuffing with Shiitake Mushrooms and Leeks , 5.0, 231.0, 9.0, 10.0, 252.0, 66.0
+Aji Sauce , 4.375, 37.0, 1.0, 0.0, 965.0, 86.0
+Gloria's Black Bean Soup , 3.75, 488.0, 14.0, 28.0, 1768.0, 39.0
+Passion Daiquiri , 0.0, 130.0, 0.0, 0.0, 2.0, 25.0
+Smoked Duck Toasts with Gingered Rhubarb , 3.75, 270.0, 15.0, 14.0, 275.0, 53.0
+Moroccan Chicken , 4.375, 1670.0, 76.0, 134.0, 1177.0, 14.0
+Chile-Marinated Pork Sandwiches on Cemita Rolls , 4.375, 825.0, 30.0, 52.0, 1212.0, 90.0
+Blueberry-Lemon Icebox Cake , 4.375, 426.0, 4.0, 30.0, 191.0, 66.0
+Turkey Giblet Stock , 0.0, 116.0, 16.0, 5.0, 132.0, 15.0
+Ginger Fried Rice with Shiitake Mushrooms , 3.75, 201.0, 4.0, 7.0, 255.0, 82.0
+Seared Fish Steaks with Horseradish Butter , 3.75, 273.0, 42.0, 10.0, 1019.0, 94.0
+Spinach Gnocchi Gratin , 3.125, 417.0, 18.0, 25.0, 936.0, 36.0
+Veal Sauté with Caramelized Shallots , 3.75, 213.0, 15.0, 10.0, 478.0, 18.0
+French 75 , 0.0, 273.0, 0.0, 0.0, 10.0, 20.0
+Braised Beef Brisket , 3.125, 858.0, 27.0, 53.0, 1218.0, 33.0
+Roast Rack of Lamb , 5.0, 1003.0, 110.0, 41.0, 2960.0, 69.0
+Mocha and Raspberry Trifle , 4.375, 452.0, 6.0, 34.0, 47.0, 71.0
+Fig and Raspberry Galette , 3.75, 338.0, 4.0, 17.0, 197.0, 12.0
+No-Bake Energy Bites With Ginger and Turmeric , 5.0, 79.0, 2.0, 5.0, 28.0, 89.0
+Homemade Sweet-and-Sour Mix for Margaritas , 4.375, 319.0, 0.0, 0.0, 6.0, 50.0
+abc, 0.0, 0.0, 0.0, 0.0, NaN, 0.0
+Ginger-Yogurt Mousse with Pistachio Meringue , 5.0, 245.0, 4.0, 14.0, 47.0, 26.0
+Chocolate Chip-Macadamia Nut Bars with Shortbread Crust , 3.75, 329.0, 4.0, 22.0, 12.0, 34.0
+Coffee Custard Sauce , 3.75, 178.0, 3.0, 13.0, 17.0, 79.0
+Green Apple Sangria , 0.0, 208.0, 1.0, 0.0, 11.0, 98.0
+Perfect Rice , 4.375, 166.0, 4.0, 2.0, 139.0, 72.0
+Grilled Porterhouse Steak with Horseradish Cream , 4.375, 743.0, 43.0, 39.0, 844.0, 73.0
+Portobello Frites , 5.0, 297.0, 3.0, 22.0, 829.0, 74.0
+Fresh Corn and Basil Cornbread , 4.75, 434.0, 9.0, 15.0, 592.0, 80.0
+Watermelon Vodka Cooler , 0.0, 272.0, 2.0, 1.0, 6.0, 57.0
+Quick-Marinated Skirt Steak with Sriracha Potatoes and Spinach , 3.75, 991.0, 48.0, 51.0, 1878.0, 15.0
+Radishes with Herbed Salt and Olive Oil , 3.75, 80.0, 1.0, 7.0, 403.0, 88.0
+Chipotle-Glazed Apples , 4.375, 232.0, 0.0, 10.0, 2.0, 29.0
+Sauteed Turkey Cutlets with Cranberry Orange Glaze , 4.375, 1115.0, 43.0, 102.0, 173.0, 49.0
+Saffron-Cardamom Rice , 4.375, 275.0, 5.0, 9.0, 444.0, 81.0
+Oysters Rockefeller "Deconstructed" , 5.0, 867.0, 10.0, 50.0, 474.0, 99.0
+Basic Veal Stock , 0.0, 38.0, 3.0, 2.0, 42.0, 98.0
+Rhubarb and Raspberry Crostata , 4.375, 341.0, 5.0, 19.0, 144.0, 48.0
+Sauteed Cod Steaks and Tomatoes with Green Sauce , 4.375, 564.0, 30.0, 46.0, 614.0, 66.0
+Chili-Braised Boneless Short Ribs , 3.75, 645.0, 32.0, 26.0, 503.0, 27.0
+Coconut Buttercream , 4.375, 226.0, 2.0, 6.0, 232.0, 80.0
+Apple Chips , 3.125, 195.0, 1.0, 0.0, 2.0, 10.0
+Quick-Pickled Strawberries , 0.0, 169.0, 1.0, 0.0, 2886.0, 29.0
+Pear Butter with Cardamom and Cinnamon , 3.75, 319.0, 1.0, 0.0, 5.0, 22.0
+Baked Smoked Ham with Mango , 5.0, 623.0, 11.0, 38.0, 712.0, 90.0
+Pera Bella Helena , 4.375, 1135.0, 68.0, 52.0, 370.0, 71.0
+Fresh Corn Soup Topped with Roasted Corn Guacamole , 4.375, 374.0, 10.0, 21.0, 1324.0, 31.0
+Twice-Baked Sweet Potatoes with Bacon-Sesame Brittle , 5.0, 286.0, 6.0, 12.0, 197.0, 72.0
+Gin Basil Smash , 3.75, 765.0, 105.0, 22.0, 1640.0, 22.0
+Grilled Corn on the Cob , 3.75, 126.0, 5.0, 2.0, 22.0, 70.0
+Chocolate-Orange Bûche de Noël , 4.375, 292.0, 6.0, 16.0, 57.0, 69.0
+Shrimp and Mushrooms in Spicy Black Bean Oyster Sauce , 4.375, 318.0, 17.0, 22.0, 895.0, 41.0
+Shrimp with Basil-Garlic Butter , 5.0, 277.0, 12.0, 23.0, 489.0, 81.0
+Loudspeaker , 0.0, 122.0, 0.0, 0.0, 1.0, 81.0
+Chocolate Yogurt Cake , 3.75, 281.0, 6.0, 10.0, 320.0, 32.0
+Turkey Club Salad with Avocado and Mayo , 3.75, 696.0, 21.0, 43.0, 66.0, 40.0
+Spaghetti alla Carbonara , 4.375, 704.0, 50.0, 48.0, 315.0, 27.0
+Delicious Bread-and-Butter Pudding , 4.375, 578.0, 2.0, 0.0, 15.0, 51.0
+Pork Roast with Winter Fruits and Port Sauce , 4.375, 991.0, 69.0, 73.0, 2377.0, 80.0
+Chick-Pea Tomato Stew with Moroccan Flavors , 4.375, 402.0, 19.0, 9.0, 330.0, 24.0
+Grilled Skirt Steak and Arugula Salad with Roquefort and Catalina Dressing , 4.375, 495.0, 30.0, 38.0, 421.0, 63.0
+Frozen Peanut Butter Pie , 4.375, 294.0, 6.0, 21.0, 105.0, 51.0
+Pistachio-Crusted Chicken with Herbs and Mustard Cream Sauce , 4.375, 529.0, 38.0, 38.0, 319.0, 19.0
+Savory Yogurt Cooler , 0.0, 268.0, 6.0, 25.0, 60.0, 13.0
+Apple-Raspberry Cake , 4.375, 370.0, 5.0, 12.0, 244.0, 74.0
+Caramelized Onion and Sour Cream Spread , 4.75, 432.0, 12.0, 25.0, 350.0, 91.0
+Broccoli Pancotto , 3.75, 248.0, 8.0, 11.0, 650.0, 25.0
+Strawberry Banana Margarita , 3.75, 286.0, 1.0, 1.0, 4.0, 21.0
+Sticky Rice with Mango , 5.0, 394.0, 5.0, 12.0, 105.0, 12.0
+Coconut-Piloncillo Ice Cream with Coconut Tortilla Chips and Fruit Salsa , 3.125, 503.0, 7.0, 25.0, 270.0, 97.0
+Roasted Red PepperWalnut Dip , 0.0, 428.0, 2.0, 43.0, 689.0, 54.0
+Raisin-Nut Spice Cookies , 4.375, 157.0, 2.0, 9.0, 71.0, 23.0
+Carolina-Style Pork BBQ Sandwiches , 5.0, 422.0, 55.0, 16.0, 1370.0, 58.0
+Macaroni with Spiced Beef and Tomato Sauce , 4.375, 580.0, 22.0, 34.0, 1725.0, 53.0
+Tea Cake Sandwich Cookies , 3.75, 130.0, 1.0, 8.0, 38.0, 81.0
+Hole in One , 0.0, 119.0, 0.0, 0.0, 6.0, 98.0
+Frozen Tropical Terrine with Mango-Blackberry Sauce , 4.375, 461.0, 4.0, 15.0, 131.0, 14.0
+Chicken Stock , 0.0, 28.0, 2.0, 2.0, 66.0, 89.0
+Jamón-Wrapped Spanish Tortilla With Piquillo Relish , 4.375, 1209.0, 9.0, 21.0, 360.0, 12.0
+Vanilla Cream and Apricot Tart , 3.75, 501.0, 5.0, 25.0, 332.0, 89.0
+White Chocolate Tartlets with Strawberries and Bananas , 0.0, 829.0, 31.0, 50.0, 2310.0, 96.0
+Lemon Dill Baked Orzo with Gruyère , 3.75, 527.0, 13.0, 17.0, 24.0, 26.0
+Classic Date Bars , 4.375, 251.0, 3.0, 9.0, 117.0, 68.0
+Sea Bass with Red Pepper and Olive Tapenade , 3.75, 363.0, 34.0, 21.0, 395.0, 38.0
+Grilled Beef Tenderloin with Potato Hobo Packs , 5.0, 287.0, 15.0, 21.0, 579.0, 45.0
+Arugula and Peach Salad with Creamy Chive Vinaigrette , 3.75, 162.0, 1.0, 15.0, 9.0, 87.0
+Black Bean Chili with Butternut Squash and Swiss Chard , 4.375, 460.0, 23.0, 9.0, 654.0, 66.0
+Green Juice , 5.0, 128.0, 5.0, 1.0, 42.0, 19.0
+Saffron Risotto Primavera , 3.75, 674.0, 42.0, 53.0, 660.0, 24.0
+Apple and Prune Tart , 3.75, 467.0, 5.0, 16.0, 224.0, 23.0
+Gingerbread Cupcakes with Lemon Cream Cheese Frosting , 3.75, 306.0, 3.0, 13.0, 236.0, 51.0
+Champagne Americana , 5.0, 136.0, 0.0, 0.0, 5.0, 45.0
+Sour Cream-Orange Coffee Cake with Chocolate-Pecan Streusel , 0.0, 706.0, 62.0, 30.0, 11670.0, 91.0
+Apricot Yogurt Cake with Orange Honey Syrup , 3.75, 1569.0, 81.0, 134.0, 1796.0, 73.0
+Mexican Scrambled Eggs , 3.75, 437.0, 22.0, 31.0, 956.0, 49.0
+Mashed Jerusalem Artichokes , 0.0, 377.0, 11.0, 10.0, 1231.0, 47.0
+Roast Pork Loin in Horseradish Crust , 4.375, 1001.0, 72.0, 60.0, 1293.0, 67.0
+Corn Bread with Green Onions and Parmesan Cheese , 3.125, 347.0, 10.0, 14.0, 587.0, 69.0
+Skirt Steak Fajitas with Lime and Black Pepper , 3.75, 809.0, 47.0, 35.0, 1541.0, 42.0
+Country Apple Tart with Spiced Brown Butter , 3.75, 572.0, 37.0, 44.0, 1220.0, 36.0
+Zucchini and Olive Mashed Potatoes , 3.75, 193.0, 6.0, 3.0, 57.0, 69.0
+Hot Slaw a la Greyhound Grill , 0.0, 155.0, 6.0, 8.0, 962.0, 58.0
+Grilled Garlic-Marinated Skirt Steak with Lime , 4.375, 148.0, 11.0, 11.0, 22.0, 32.0
+Turkey Empañadas , 4.375, 117.0, 5.0, 6.0, 182.0, 86.0
+Yogurt-Mint Dip , 3.125, 74.0, 4.0, 4.0, 55.0, 40.0
+Pecan-Fig Pie with Brandied Whipped Cream , 4.375, 647.0, 21.0, 54.0, 1370.0, 56.0
+Prosciutto and Fig Panini , 3.75, 523.0, 35.0, 27.0, 2029.0, 10.0
+Lamb Shank Ragù with Anson Mills Grits , 4.375, 628.0, 34.0, 41.0, 229.0, 37.0
+Steamed Mussels with Sausages and Fennel , 4.375, 906.0, 57.0, 53.0, 284.0, 78.0
+Beef Short Ribs with Asian Flavors , 3.75, 1321.0, 56.0, 103.0, 17544.0, 13.0
+Vinegar-Braised Chicken and Onions , 4.375, 1165.0, 50.0, 63.0, 496.0, 57.0
+Caribbean-Style Black Bean and Rice Salad , 3.75, 323.0, 7.0, 19.0, 132.0, 95.0
+Honey-Gingered Pork Tenderloins , 4.375, 484.0, 66.0, 11.0, 1564.0, 53.0
+Banana Rum Puffs , 4.375, 129.0, 1.0, 9.0, 34.0, 80.0
+Sauteed Trout with Pecans , 4.5, 553.0, 48.0, 38.0, 97225.0, 29.0
+White Chocolate Pumpkin Mousse , 0.0, 247.0, 3.0, 17.0, 116.0, 64.0
+Peach or Nectarine Chutney , 4.375, 397.0, 3.0, 2.0, 8.0, 15.0
+Citrus Salad with Mint Sugar , 4.375, 191.0, 3.0, 1.0, 4.0, 52.0
+Rotelle with Summer Tomato and Herb Sauce , 4.375, 393.0, 11.0, 11.0, 60.0, 20.0
+Coriander and Mustard Seed Chicken , 4.375, 2008.0, 111.0, 156.0, 2244.0, 67.0
+Frozen Milk Chocolate and Amaretto Mousse Pie , 3.75, 438.0, 4.0, 25.0, 154.0, 79.0
+Sage Vinaigrette , 3.75, 168.0, 0.0, 18.0, 137.0, 25.0
+Lemon-Scented Chicken Soup with Parsley-Sage Matzo Balls , 4.375, 714.0, 54.0, 45.0, 1228.0, 21.0
+Candied Carrot Coins , 0.0, 74.0, 1.0, 0.0, 42.0, 100.0
+Pasta with Kalamata Olives and Roasted Cherry Tomato Sauce , 3.125, 556.0, 20.0, 16.0, 232.0, 51.0
+Chicken with Figs in Ras-el-Hanout and Couscous , 2.5, 4494.0, 73.0, 253.0, 3548.0, 91.0
+Spicy Tamarind Skirt Steak , 3.75, 452.0, 35.0, 30.0, 1547.0, 33.0
+Lemongrass Consommé , 3.75, 295.0, 25.0, 20.0, 370.0, 62.0
+Sauteed Pea Tendrils with Garlic , 3.125, 57.0, 3.0, 4.0, 76.0, 60.0
+Toasted Coconut Dacquoise with Orange Pineapple Ice Cream , 2.5, 505.0, 7.0, 26.0, 199.0, 79.0
+Barbecued Cheddar Burgers , 4.375, 307.0, 25.0, 14.0, 506.0, 82.0
+Pecan Molasses Bundt Cake with Bourbon Glaze , 4.375, 359.0, 3.0, 17.0, 195.0, 33.0
+Andouille-Stuffed Pork Loin with Creole Mustard , 3.75, 441.0, 40.0, 21.0, 5865.0, 11.0
+Lime Caramel , 0.0, 231.0, 1.0, 7.0, 182.0, 76.0
+Pistachio Couscous , 3.75, 357.0, 11.0, 9.0, 305.0, 90.0
+Lemon-Scented Ricotta and Mascarpone Cream Puffs , 3.75, 104.0, 2.0, 8.0, 32.0, 84.0
+Fresh Tomato and Onion Chutney , 3.75, 68.0, 1.0, 5.0, 468.0, 36.0
+Lemon-Tahini Sauce , 4.375, 375.0, 11.0, 32.0, 763.0, 94.0
+Vegetable Chili , 4.375, 324.0, 13.0, 10.0, 577.0, 70.0
+Thai Beef Stew With Lemongrass and Noodles , 3.75, 691.0, 11.0, 54.0, 1770.0, 12.0
+Red Flannel Hash with Dilled Sour Cream , 3.125, 439.0, 15.0, 30.0, 912.0, 29.0
+Molasses-and-Buttermilk Gingerbread Squares , 4.375, 153.0, 2.0, 6.0, 63.0, 22.0
+Herbed Game Hens with Radicchio and Truffle Oil , 4.375, 779.0, 70.0, 30.0, 468.0, 34.0
+Simple Veal Pasta Sauce , 3.75, 179.0, 9.0, 15.0, 544.0, 39.0
+Coffee Date Shake , 0.0, 202.0, 4.0, 3.0, 54.0, 83.0
+Miniature Crab Cakes with Mustard Mayonnaise , 4.375, 44.0, 2.0, 4.0, 89.0, 67.0
+Grapefruit with Chile and Rosemary , 5.0, 69.0, 1.0, 0.0, 0.0, 19.0
+Brandied Sour Cherry and Pear Tartlets , 4.375, 305.0, 3.0, 16.0, 151.0, 34.0
+Trio of Marinated Goat Cheeses , 5.0, 335.0, 5.0, 34.0, 272.0, 53.0
+Spiced Cider Cup , 3.75, 117.0, 0.0, 0.0, 11.0, 75.0
+Spaghetti Lemoncello , 3.125, 427.0, 13.0, 12.0, 93.0, 10.0
+Cleansing Ginger-Chicken Soup , 3.75, 409.0, 29.0, 29.0, 155.0, 32.0
+Spicy Tomato Salsa with Cilantro and Chiles , 5.0, 65.0, 2.0, 4.0, 725.0, 67.0
+Mushroom and Cheddar Cheese Soup , 4.375, 364.0, 18.0, 24.0, 801.0, 12.0
+Persimmon Salad with Sweet Ginger Vinaigrette , 3.125, 36.0, 1.0, 0.0, 26.0, 94.0
+Walnut Tartlets , 4.375, 243.0, 2.0, 12.0, 9.0, 10.0
+Crispy Fried Shallots , 4.375, 202.0, 2.0, 15.0, 12.0, 38.0
+Horseradish Cream , 4.375, 116.0, 1.0, 11.0, 59.0, 95.0
+Quick Pickled Onions , 5.0, 62.0, 1.0, 0.0, 1437.0, 23.0
+Jícama and Cucumber Chili Spears , 3.75, 57.0, 1.0, 0.0, 11.0, 18.0
+Peach and Apple Salsa , 4.375, 230.0, 2.0, 1.0, 8.0, 12.0
+Ancho Mole , 3.75, 264.0, 5.0, 22.0, 13.0, 61.0
+Turkish Grilled Turkey or Chicken with Tangy Herbed Yogurt , 0.0, 381.0, 29.0, 28.0, 113.0, 94.0
+Old-Fashioned Lime Pie , 4.375, 3052.0, 121.0, 250.0, 1751.0, 67.0
+Grilled Eggplant Parmesan , 3.75, 707.0, 83.0, 21.0, 406.0, 81.0
+Grilled Lamb with Lima Bean Skordalia , 5.0, 1114.0, 1.0, 111.0, 5.0, 52.0
+Waikaloa Breeze , 3.75, 264.0, 2.0, 8.0, 21.0, 19.0
+Fried-Egg Caesar with Sun-Dried Tomatoes and Prosciutto Breadsticks , 4.375, 456.0, 24.0, 31.0, 1383.0, 53.0
+Chipotle Mayonnaise with Lime , 4.375, 201.0, 0.0, 22.0, 222.0, 83.0
+Persian Spice Mix , 0.0, 72.0, 1.0, 1.0, 4.0, 34.0
+Dark Chocolate Avocado Brownies , 4.375, 170.0, 2.0, 12.0, 135.0, 77.0
+Pâte Brisée , 4.375, 234.0, 3.0, 16.0, 99.0, 63.0
+Kung Pao Chicken , 5.0, 259.0, 30.0, 11.0, 371.0, 70.0
+Dried Fruit Stuffing , 5.0, 303.0, 7.0, 13.0, 284.0, 73.0
+Tortilla Soup , 4.375, 467.0, 8.0, 38.0, 150.0, 62.0
+Grilled T-Bone Steaks with Balsamic Onion Confit , 2.5, 1034.0, 57.0, 64.0, 236.0, 91.0
+Whole Baked Salmon , 3.125, 513.0, 47.0, 34.0, 136.0, 78.0
+Garlicky Greek Salad , 4.375, 205.0, 4.0, 19.0, 265.0, 64.0
+Mint-Truffle Ice Cream Terrine with Mint and Chocolate Sauces , 4.375, 570.0, 66.0, 26.0, 1133.0, 62.0
+Pan-Seared Chicken with Tarragon Butter Sauce , 4.375, 605.0, 46.0, 43.0, 955.0, 44.0
+Isabelle's Semolina Cake , 3.75, 474.0, 14.0, 9.0, 128.0, 43.0
+Polenta , 3.75, 218.0, 4.0, 1.0, 600.0, 71.0
+Rustic French Meatloaf , 4.375, 245.0, 17.0, 15.0, 142.0, 49.0
+Apple-Cranberry Crisp , 4.375, 304.0, 2.0, 17.0, 6.0, 14.0
+Roasted Beet and Walnut Dip , 1.25, 180.0, 5.0, 13.0, 418.0, 55.0
+Linguine with Collard Greens and Bacon , 4.375, 1347.0, 16.0, 79.0, 408.0, 66.0
+Clams au Gratin , 1.25, 105.0, 9.0, 3.0, 382.0, 11.0
+Basil Ice Cream , 4.375, 219.0, 5.0, 13.0, 48.0, 46.0
+Iced Coffee Mousse , 4.375, 354.0, 7.0, 18.0, 111.0, 60.0
+Vietnamese Pork Chops with Pickled Watermelon , 4.375, 780.0, 8.0, 57.0, 243.0, 33.0
+hmm, 0.6, 3.0, 3.0, 3.0, 3.0, NaN
+Sherry Crema Catalana Ice Cream with Honeyed Figs , 0.0, 830.0, 43.0, 56.0, 2507.0, 46.0
+Lady Baltimore Cake , 3.75, 3724.0, 38.0, 376.0, 296.0, 34.0
+Cinnamon-Clove Ice Cream , 4.375, 282.0, 4.0, 24.0, 34.0, 91.0
+Mignonette Sauce , 4.375, 54.0, 1.0, 0.0, 751.0, 57.0
+Chicken Posole , 4.375, 668.0, 55.0, 34.0, 1586.0, 84.0
+Almond Cheesecake with Sour Cream and Blackberries , 5.0, 992.0, 73.0, 64.0, 394.0, 70.0
+Fish Soup with Aïoli Croutons , 3.75, 1092.0, 35.0, 66.0, 2023.0, 58.0
+Jalapeño Popper Fritters with Tomato Salsa , 4.375, 760.0, 95.0, 26.0, 255.0, 85.0
+Charmoula , 5.0, 208.0, 1.0, 23.0, 7.0, 11.0
+Lentils with Port-Glazed Shallots , 3.125, 446.0, 23.0, 4.0, 18.0, 68.0
+Asparagus and Leek Soup , 4.375, 317.0, 11.0, 21.0, 252.0, 38.0
+Parmesan-Stuffed Dates Wrapped in Bacon , 4.375, 469.0, 18.0, 21.0, 713.0, 53.0
+Cranberry Pineapple Salsa , 4.375, 183.0, 2.0, 2.0, 8.0, 76.0
+Lasagna with Turkey Sausage Bolognese , 3.75, 662.0, 64.0, 27.0, 2009.0, 83.0
+Frozen Blackberry-Cream Pops , 5.0, 148.0, 2.0, 7.0, 25.0, 74.0
+Spiced Plum Shortcakes , 3.75, 865.0, 7.0, 32.0, 653.0, 73.0
+Wassail , 4.375, 335.0, 4.0, 3.0, 47.0, 29.0
+Coriander and Cumin Flatbread , 3.75, 121.0, 3.0, 4.0, 288.0, 83.0
+Banana Cream Pie with Salty Bourbon Caramel , 3.75, 641.0, 45.0, 47.0, 202.0, 68.0
+Red Chile Sauce , 0.0, 32.0, 1.0, 1.0, 362.0, 57.0
+Spicy Lime and Herbed Tofu in Lettuce Cups , 3.75, 149.0, 14.0, 7.0, 608.0, 66.0
+Ahi Tuna Carpaccio with Basil Pesto Fettuccine and Heirloom Tomatoes , 4.375, 1829.0, 59.0, 49.0, 3536.0, 18.0
+Five-Spice Pork Stir-Fry with Soba Noodles , 424.0, 62.0, 4.375, 744.0, 59.0, 52.0
+Lemon-Oregano Chicken , 5.0, 589.0, 3.0, 59.0, 655.0, 73.0
+Avocado-Lime Ice Pops , 0.0, 259.0, 2.0, 10.0, 56.0, 23.0
+Italian Sausage Pasta Salad , 3.75, 628.0, 5.0, 21.0, 151.0, 46.0
+Vanilla Cream , 3.75, 124.0, 8.0, 5.0, 241.0, 23.0
+Our Favorite Pie Dough , 3.75, 235.0, 3.0, 13.0, 235.0, 68.0
+Cassis-Spiked Cranberry Sauce , 3.125, 214.0, 0.0, 0.0, 31.0, 24.0
+Grilled Sausage Sandwiches with Caramelized Onions and Gruyère Cheese , 3.125, 1007.0, 29.0, 59.0, 390.0, 32.0
+Blood-Orange Rum Punch , 1.25, 324.0, 1.0, 0.0, 12.0, 81.0
+Apricot Honey Cake , 0.0, 4157.0, 37.0, 200.0, 1634.0, 65.0
+Lemon Sabayon with Grapefruit , 5.0, 216.0, 4.0, 7.0, 27.0, 50.0
+Seeded Tortilla Triangles , 3.75, 38.0, 1.0, 2.0, 54.0, 73.0
+Vegetable Soup with Basil and Garlic , 4.375, 1313.0, 91.0, 70.0, 3192.0, 25.0
+Vegetarian Tagine , 3.75, 251.0, 9.0, 4.0, 748.0, 54.0
+Key Lime Coconut Cake , 4.375, 459.0, 5.0, 17.0, 386.0, 87.0
+Veal Scallopini with Olive and Sun-Dried Tomato Sauce , 4.375, 645.0, 18.0, 35.0, 464.0, 79.0
+Herb Roasted Turkey , 5.0, 1600.0, 249.0, 53.0, 12450.0, 30.0
+Open-Face Crab Burgers with Red Pepper Dressing , 4.375, 555.0, 20.0, 17.0, 1121.0, 46.0
+Spaghetti with Eggplant and Tomato Sauce , 4.375, 732.0, 24.0, 43.0, 1241.0, 50.0
+Pickled Beets with Star Anise , 4.375, 143.0, 1.0, 0.0, 737.0, 37.0
+Sherry and Egg , 1.25, 162.0, 5.0, 4.0, 60.0, 28.0
+Panko Scallops with Green Chile Chutney , 3.75, 1161.0, 64.0, 98.0, 1404.0, 89.0
+Duck Prosciutto Breadsticks with Ricotta and Dried Figs , 4.375, 520.0, 32.0, 38.0, 482.0, 45.0
+Cayenne Corn Bread Sticks , 4.375, 165.0, 5.0, 7.0, 315.0, 14.0
+Berry-Brandy Toddies with Raspberries and Cream , 2.5, 119.0, 0.0, 0.0, 2.0, 53.0
+Guava-Lime Glaze , 5.0, 235.0, 1.0, 0.0, 22.0, 44.0
+Apple Pie with Oat Streusel , 4.375, 518.0, 20.0, 37.0, 1140.0, 94.0
+Breaded Chicken Cutlets (aka Grandma Jody's Chicken) , 3.75, 326.0, 35.0, 16.0, 157.0, 42.0
+Spinach Salad with Grilled Eggplant and Feta , 4.375, 397.0, 9.0, 36.0, 451.0, 62.0
+Smoked Salmon and Leek Scramble with Meyer Lemon Crème Fraîche , 4.375, 393.0, 21.0, 31.0, 1008.0, 82.0
+Quick Baked Chicken Parmesan , 5.0, 917.0, 75.0, 47.0, 4856.0, 39.0
+Tapenade Butter , 0.0, 114.0, 1.0, 12.0, 131.0, 47.0
+Summer Berry Mint Cream Tart , 4.375, 525.0, 59.0, 22.0, 137.0, 95.0
+Puerto Rican Coconut Eggnog (Coquito) , 3.75, 200.0, 4.0, 10.0, 77.0, 90.0
+Cheese Crisps , 3.75, 163.0, 10.0, 13.0, 252.0, 67.0
+Sesame Spinach with Ginger and Garlic , 3.75, 102.0, 3.0, 9.0, 68.0, 52.0
+Semisweet Chocolate Layer Cake with Vanilla Cream Filling , 5.0, 752.0, 9.0, 45.0, 268.0, 36.0
+Blackberry-Raspberry Sauce , 0.0, 172.0, 2.0, 1.0, 14.0, 68.0
+Creole Chicken and Okra Gumbo , 3.75, 487.0, 26.0, 35.0, 234.0, 79.0
+Crispy Masa Boats with Pork Picadillo , 4.375, 173.0, 5.0, 16.0, 121.0, 93.0
+Japanese Beef and Scallion Rolls , 4.375, 187.0, 17.0, 9.0, 482.0, 75.0
+Italian Sausages with Broccoli Rabe and Polenta , 4.375, 1807.0, 16.0, 117.0, 920.0, 46.0
+Smoked Turkey and Cheese Spread , 4.375, 225.0, 7.0, 21.0, 160.0, 73.0
+Chicken and Dill Fricassée with Sour Cream Shortcakes , 4.375, 733.0, 51.0, 46.0, 2763.0, 30.0
+The West Coast , 0.0, 148.0, 0.0, 0.0, 2.0, 76.0
+Mexican Seafood Sauté with Avocado-Mango Salsa , 4.375, 483.0, 27.0, 29.0, 952.0, 88.0
+Old-Fashioned Indian Pudding , 4.375, 213.0, 6.0, 5.0, 129.0, 14.0
+Chicken Breasts with Horseradish-Scallion Crust , 3.75, 770.0, 28.0, 37.0, 1170.0, 72.0
+Chicken Paprikash with Sour Cream , 4.375, 827.0, 57.0, 57.0, 870.0, 33.0
+Gluten-Free Citrus Sugar Cookies , 5.0, 122.0, 1.0, 6.0, 18.0, 71.0
+Roasted Rhubarb Tarts with Strawberry Sauce , 4.375, 574.0, 22.0, 24.0, 481.0, 22.0
+30-Minute Rice Pudding with Dried Fruit , 3.75, 271.0, 8.0, 7.0, 71.0, 44.0
+Blood-Orange Mimosas , 5.0, 138.0, 1.0, 0.0, 5.0, 77.0
+Chicken with Creamy Mushroom Sauce , 2.5, 525.0, 20.0, 15.0, 246.0, 11.0
+Nellie & Joe's Key Lime Pie , 4.375, 2343.0, 46.0, 193.0, 1569.0, 11.0
+Spicy Caramel Apple Sauce , 3.75, 431.0, 1.0, 11.0, 15.0, 78.0
+Raspberry Frozen Yogurt Cake with Raspberry Amaretto Sauce , 4.375, 310.0, 5.0, 10.0, 106.0, 16.0
+Spinach Lasagne Rolls , 3.125, 661.0, 35.0, 54.0, 274.0, 45.0
+Walnut and Coffee Tart with Coffee Cream , 0.0, 487.0, 8.0, 33.0, 161.0, 59.0
+Lobster Rolls with Lemon Vinaigrette and Garlic Butter , 3.75, 327.0, 11.0, 22.0, 379.0, 73.0
+Rib-Eye Steak with Warm Tomato Corn Salad , 4.375, 282.0, 15.0, 20.0, 626.0, 77.0
+Corned Beef Hash with Fried Eggs , 4.375, 497.0, 18.0, 26.0, 230.0, 84.0
+Marinated Fried Fish Strips and Potatoes with Onions and Green Peppers , 4.375, 552.0, 26.0, 19.0, 895.0, 84.0
+German Potato Salad , 4.375, 385.0, 11.0, 16.0, 391.0, 53.0
+Orange-Blossom-Honey Madeleines , 5.0, 93.0, 1.0, 5.0, 39.0, 44.0
+Double-Baked Potatoes with Mushrooms and Cheese , 4.375, 425.0, 13.0, 25.0, 225.0, 16.0
+Cucumber Feta Salad Dressing , 3.125, 211.0, 11.0, 14.0, 551.0, 92.0
+Scallops Verde , 3.75, 1245.0, 16.0, 87.0, 479.0, 67.0
+Blueberry-Lemon Cake with Lemon Cream Cheese Frosting , 4.375, 381.0, 5.0, 18.0, 293.0, 79.0
+Boston Cream Pie , 3.125, 299.0, 4.0, 16.0, 198.0, 100.0
+Miso Soup , 3.75, 41.0, 4.0, 2.0, 347.0, 32.0
+Blackberry Sauce , 3.75, 195.0, 2.0, 1.0, 2.0, 58.0
+Vanilla Cream Cheese Frosting , 4.375, 274.0, 2.0, 15.0, 90.0, 62.0
+Pork and Ham Loaf with Marmalade-Mustard Glaze , 3.75, 675.0, 13.0, 1.0, 2349.0, 67.0
+Middle Eastern Nut-Filled Multilayered Pastry (Baklava) , 5.0, 355.0, 5.0, 17.0, 90.0, 10.0
+Fig and Rum Squares , 4.375, 214.0, 3.0, 12.0, 37.0, 57.0
+Brazen Hussy , 0.0, 155.0, 0.0, 0.0, 3.0, 67.0
+Sugarplum-Orange and Apricot-Earl Grey Jam Tarts , 4.375, 4889.0, 86.0, 201.0, 2873.0, 41.0
+Curried Squash , 3.75, 164.0, 3.0, 3.0, 600.0, 78.0
+Brown Sugar Buttercream , 3.125, 279.0, 1.0, 23.0, 168.0, 18.0
+Antipasto Salad with Basil Dressing , 4.375, 677.0, 24.0, 40.0, 1227.0, 48.0
+Fruit with Cassis-Spiked Lemon Curd Sauce , 4.375, 196.0, 4.0, 6.0, 46.0, 51.0
+Individual Coconut Rum Chocolate Cakes , 4.375, 294.0, 4.0, 16.0, 241.0, 70.0
+Caraway Rice Cakes , 3.125, 117.0, 2.0, 2.0, 142.0, 74.0
+Cranberry-Orange Drop Cookies , 3.75, 102.0, 1.0, 6.0, 30.0, 71.0
+Grilled Lamb Chops with Salmoriglio Sauce , 3.75, 609.0, 42.0, 14.0, 583.0, 93.0
+Cold Sesame Spinach , 3.75, 61.0, 5.0, 3.0, 190.0, 33.0
+Melon and Prosciutto with Balsamic Vinegar and Mint , 3.75, 186.0, 6.0, 2.0, 454.0, 67.0
+Apricot Almond Scones , 3.75, 458.0, 10.0, 22.0, 318.0, 21.0
+Castraveti, 3.0, 3.0, 3.0, 3.0, 3.0, 3.0
+Fontina Risotto Cakes with Fresh Chives , 4.375, 389.0, 11.0, 24.0, 318.0, 27.0
+Chocolate Layer Cake with Chocolate-Raspberry Frosting , 3.75, 653.0, 32.0, 52.0, 548.0, 20.0
+Porchetta-Style Roast Turkey Breast , 4.375, 692.0, 30.0, 21.0, 790.0, 10.0
+Mexican Sandwiches , 4.375, 788.0, 40.0, 56.0, 1087.0, 27.0
+Bourbon Sloe Gin Cocktail , 0.0, 188.0, 0.0, 0.0, 6.0, 54.0
+Dorade With Potatoes and Burst Tomato Sauce , 5.0, 498.0, 44.0, 22.0, 229.0, 36.0
+Apricot Miso Jam , 5.0, 226.0, 3.0, 1.0, 279.0, 49.0
+Fried Squid with Aïoli , 3.125, 391.0, 5.0, 26.0, 466.0, 46.0
+meniu1, 2.75, 973.0, 49.0, 49.0, 2361.0, 180.0
+Turkey Gravy , 3.75, 504.0, 30.0, 27.0, 1528.0, 76.0
+Green Bean and Red Onion Salad with Warm Cider Vinaigrette , 4.375, 218.0, 3.0, 15.0, 111.0, 64.0
+Vanilla Buttercream , 4.375, 280.0, 1.0, 23.0, 54.0, 46.0
+Frozen Meyer Lemon Cream with Blackberry Sauce , 4.375, 201.0, 2.0, 10.0, 15.0, 54.0
+Vegetable Green Curry , 3.75, 416.0, 7.0, 25.0, 126.0, 45.0
+Caramelized Onion and Sour Cream Spread , 3.75, 432.0, 12.0, 25.0, 350.0, 91.0
+Crab and Crimini Bisque , 3.75, 357.0, 20.0, 26.0, 402.0, 37.0
+Turkey Tonnato with Potatoes and Green Beans , 4.375, 1497.0, 54.0, 129.0, 1466.0, 14.0
+Spoon Bread with Sour Cream and Cheese , 3.75, 564.0, 35.0, 45.0, 151.0, 40.0
+Corsican Grilled Whole Fish with Breadcrumbs and Anchovies , 4.375, 496.0, 62.0, 18.0, 368.0, 64.0
+Toreador , 2.5, 317.0, 1.0, 11.0, 14.0, 48.0
+Jealous Marys , 4.375, 93.0, 1.0, 0.0, 415.0, 67.0
+Tehina , 3.75, 118.0, 4.0, 9.0, 262.0, 26.0
+Minted Lamb Burgers , 4.375, 505.0, 28.0, 35.0, 249.0, 24.0
+Turkey Scaloppine with Mushroooms , 4.375, 474.0, 40.0, 30.0, 453.0, 64.0
+Lebanese Lamb and Bean Stew , 3.75, 1291.0, 163.0, 60.0, 66833.0, 59.0
+Broiled Shrimp Appetizer , 4.375, 423.0, 6.0, 44.0, 863.0, 82.0
+Fallen Chocolate Cake Squares à la Mode with Butterscotch Sauce , 3.75, 517.0, 8.0, 32.0, 164.0, 59.0
+Cranberry Relish , 4.375, 278.0, 1.0, 0.0, 2.0, 57.0
+Jalapeño-Goat-Cheese Hush Puppies , 4.375, 95.0, 2.0, 6.0, 152.0, 59.0
+Fresh Herb Frittata , 3.125, 240.0, 17.0, 16.0, 219.0, 38.0
+Rum Raisin Apple Pie , 5.0, 258.0, 3.0, 3.0, 217.0, 39.0
+Barbecued Beef Ribs , 0.0, 2005.0, 109.0, 130.0, 8470.0, 65.0
+Ginger Lime Cordial , 0.0, 125.0, 1.0, 0.0, 11.0, 59.0
+Venison Chili with Snowcap Beans , 4.375, 875.0, 11.0, 62.0, 121.0, 85.0
+Curried Chicken Salad , 4.375, 496.0, 29.0, 32.0, 559.0, 24.0
+House Vinaigrette , 5.0, 148.0, 0.0, 16.0, 35.0, 77.0
+Roasted Orange-Herb Game Hen , 5.0, 800.0, 9.0, 70.0, 131.0, 65.0
+Achiote Chicken with Tangerine Sauce , 4.375, 362.0, 54.0, 10.0, 109.0, 10.0
+Meyer Lemon and Vanilla Bean Marmalade , 4.375, 444.0, 1.0, 0.0, 36.0, 17.0
+Ginger-Garlic Shrimp , 3.75, 172.0, 18.0, 5.0, 1315.0, 30.0
+Chicken and Mushroom Enchiladas , 5.0, 566.0, 32.0, 38.0, 1786.0, 29.0
+Chocolate Syrup , 2.5, 228.0, 1.0, 1.0, 79.0, 29.0
+Baked Flounder Fillets with Lemon-Pepper Vegetables , 4.375, 150.0, 2.0, 9.0, 29.0, 82.0
+Molasses-Baked Onions , 4.375, 229.0, 6.0, 14.0, 357.0, 55.0
+Lemon Blueberry Ice-Cream Cake , 3.125, 276.0, 3.0, 11.0, 181.0, 95.0
+Brussels Sprouts and Chestnuts with Blue Cheese , 5.0, 225.0, 7.0, 11.0, 166.0, 100.0
+Roasted Eggplant and Red Pepper Topping , 4.375, 89.0, 1.0, 7.0, 294.0, 92.0
+Five-Spice Duck with Butternut Squash Ravioli and Broccoli Rabe , 0.0, 5090.0, 61.0, 219.0, 2253.0, 76.0
+Ham Steak on Creamed Spinach , 3.125, 438.0, 42.0, 26.0, 3588.0, 10.0
+Poached Pineapple in Cinnamon Syrup with Yogurt Cheese , 3.75, 229.0, 5.0, 4.0, 58.0, 78.0
+Strozzapreti with Spinach and Preserved Lemon , 5.0, 639.0, 35.0, 28.0, 1155.0, 94.0
+Sage Vinaigrette , 3.75, 168.0, 0.0, 18.0, 137.0, 25.0
+Heirloom Tomato Salad with Blue Cheese , 4.375, 514.0, 15.0, 30.0, 618.0, 95.0
+Grilled Mahi-Mahi Tacos , 5.0, 343.0, 26.0, 14.0, 619.0, 41.0
+Grilled Leg of Lamb with Ancho Chile Marinade , 5.0, 509.0, 38.0, 36.0, 798.0, 53.0
+Coconut Buttercream , 4.375, 226.0, 2.0, 6.0, 232.0, 92.0
+Red-Bean Soup with Gremolata , 3.125, 277.0, 15.0, 7.0, 47.0, 93.0
+Mustard Cheddar Crackers , 4.375, 35.0, 1.0, 3.0, 38.0, 97.0
+Raspberry Sauce , 4.375, 843.0, 40.0, 68.0, 153.0, 27.0
+Green Chile Cheesecake with Papaya Salsa Wilson , 4.375, 273.0, 6.0, 22.0, 186.0, 73.0
+Orange-Spice Bûche de Noël with Orange Cream Cheese Frosting , 4.375, 505.0, 4.0, 20.0, 149.0, 37.0
+Serrano Ham and Poblano Corn Pudding , 5.0, 222.0, 8.0, 17.0, 440.0, 29.0
+Pomegranate-Ginger Champagne Cocktail , 5.0, 61.0, 0.0, 0.0, 6.0, 81.0
+Homemade Cheese Spread With Garlic and Herbs , 5.0, 165.0, 2.0, 17.0, 219.0, 35.0
+Mustard-Horseradish Sauce , 4.375, 298.0, 3.0, 30.0, 444.0, 82.0
+Grilled Lamb Chops with Curried Couscous and Zucchini Raita , 3.75, 713.0, 35.0, 49.0, 966.0, 26.0
+Maple Pumpkin Pots de Crème , 4.375, 157.0, 3.0, 8.0, 51.0, 78.0
+Thyme-Roasted Apples and Onions , 5.0, 619.0, 46.0, 46.0, 713.0, 10.0
+Frozen Margarita , 1.25, 204.0, 0.0, 0.0, 4.0, 41.0
+Charmoula , 5.0, 208.0, 1.0, 23.0, 7.0, 97.0
+Lemon Fennel Shrimp with Tarragon , 3.75, 137.0, 8.0, 11.0, 322.0, 87.0
+Lemon Ice Cream , 4.375, 311.0, 4.0, 28.0, 30.0, 85.0
+Marshmallows , 4.375, 28.0, 0.0, 0.0, 9.0, 22.0
+Skillet Corn Bread with Red Bell Pepper , 3.125, 295.0, 6.0, 10.0, 503.0, 92.0
+Chunky Beef and Vegetable Soup , 3.125, 372.0, 44.0, 11.0, 798.0, 83.0
+Oatmeal Trail Mix Cookies , 4.375, 108.0, 2.0, 6.0, 68.0, 11.0
+Sunshine , 0.0, 130.0, 0.0, 0.0, 2.0, 33.0
+Champagne Fizz , 1.25, 148.0, 1.0, 0.0, 7.0, 52.0
+Breaded Skinless Fish Fillets with Red Pepper Mayonnaise , 4.375, 750.0, 35.0, 21.0, 205.0, 88.0
+Pasta With Mushrooms and Prosciutto , 3.75, 676.0, 42.0, 48.0, 1216.0, 53.0
+pizza, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
+Red Salad with Pickled Beet Vinaigrette , 0.0, 455.0, 12.0, 37.0, 1410.0, 36.0
+Red Curry–Marinated Japanese Eggplant , 1.25, 309.0, 6.0, 20.0, 491.0, 82.0
+White Bean Soup with Chive Oil , 3.125, 169.0, 10.0, 5.0, 352.0, 32.0
+Brandied Dried Cranberries and Cherries , 5.0, 251.0, 0.0, 1.0, 5.0, 29.0
+S'mores Ice Cream Pie with Warm Milk Chocolate Sauce , 5.0, 709.0, 30.0, 62.0, 1534.0, 87.0
+Parsley-Potato Pancakes , 3.75, 211.0, 1.0, 18.0, 5.0, 69.0
+Sticky Buns , 4.375, 714.0, 29.0, 21.0, 1663.0, 21.0
+Wild Rice and Roasted Vegetable Salad with Sherry-Thyme Vinaigrette , 3.75, 301.0, 8.0, 14.0, 22.0, 82.0
+Applesauce with Butter Pecan Crumbs , 4.375, 705.0, 24.0, 45.0, 482.0, 34.0
+Mango-Lime Salad , 0.0, 222.0, 2.0, 1.0, 3.0, 58.0
+Wilted Cabbage with Mustard and Horseradish , 3.75, 160.0, 4.0, 9.0, 534.0, 30.0
+Rajas , 3.125, 498.0, 6.0, 50.0, 45.0, 38.0
+Sliced Steak with Arugula , 4.375, 464.0, 24.0, 38.0, 658.0, 27.0
+Indian Clarified Butter , 5.0, 203.0, 0.0, 23.0, 3.0, 81.0
+Small Semolina Griddle Breads , 3.75, 331.0, 5.0, 18.0, 100.0, 84.0
+Arctic Char with Cucumber-Feta Relish and Jalapeño-Goat Cheese Hush Puppies , 3.75, 460.0, 14.0, 43.0, 290.0, 86.0
+Pizza Dough Rounds , 5.0, 250.0, 9.0, 6.0, 463.0, 94.0
+Opal , 0.0, 129.0, 0.0, 0.0, 2.0, 83.0
+Radicchio and Haricot Vert Salad with Candied Walnuts , 4.375, 163.0, 2.0, 13.0, 9.0, 61.0
+Blueberry-Buttermilk Bundt Cake , 3.75, 367.0, 6.0, 13.0, 334.0, 40.0
+French Spiced Bread , 5.0, 366.0, 9.0, 5.0, 667.0, 36.0
+Herbed Yellow Pepper Scrambled Eggs with Chive Sour Cream on Brioche , 3.75, 1316.0, 51.0, 42.0, 1554.0, 49.0
+Vegetable Soup with Basil and Garlic Sauce , 3.75, 619.0, 17.0, 26.0, 930.0, 61.0
+Ham and Sage Ponice , 2.5, 273.0, 19.0, 10.0, 629.0, 18.0
+Cinnamon Swirl Coffee Cake , 4.375, 379.0, 6.0, 15.0, 271.0, 59.0
+Blood-Orange and Grapefruit Juice , 0.0, 104.0, 1.0, 0.0, 2.0, 54.0
+Quick Tartar Sauce , 0.0, 143.0, 0.0, 15.0, 172.0, 43.0
+Jamaica Glow , 0.0, 141.0, 0.0, 0.0, 2.0, 97.0
+Leg of Lamb Stuffed with Greens and Feta , 3.75, 1029.0, 75.0, 69.0, 719.0, 74.0
+Kashmiri Chai with Gin , 5.0, 213.0, 5.0, 6.0, 133.0, 17.0
+Peach Iced Tea Sorbet , 0.0, 166.0, 1.0, 0.0, 7.0, 78.0
+Amaretto Chocolate Pudding , 3.75, 335.0, 4.0, 12.0, 271.0, 13.0
+Sesame Soba Noodle and Vegetable Salad , 4.375, 339.0, 10.0, 13.0, 485.0, 86.0
+Chocolate Mousse Cake with Cinnamon Cream , 4.375, 258.0, 4.0, 19.0, 36.0, 98.0
+Brown-Rice Flour Mix , 5.0, 267.0, 4.0, 1.0, 5.0, 52.0
+Rajas con Crema , 4.375, 28.0, 1.0, 2.0, 4.0, 66.0
+Carrot and Beet Salad with Ginger Vinaigrette , 4.375, 226.0, 2.0, 19.0, 242.0, 11.0
+French Potato Salad , 4.375, 212.0, 4.0, 7.0, 107.0, 15.0
+Sweet Potato Corn Bread , 4.375, 394.0, 9.0, 12.0, 654.0, 30.0
+Phyllo Nests with Strawberries and Honey , 4.375, 528.0, 28.0, 30.0, 1360.0, 61.0
+Late-Summer Cherry Pie , 3.75, 440.0, 5.0, 15.0, 190.0, 83.0
+Vanilla Peach Pie , 3.75, 222.0, 3.0, 2.0, 41.0, 88.0
+Curried Chicken Soup with Carrots , 4.375, 448.0, 26.0, 28.0, 229.0, 34.0
+Spiced Shrimp Soup , 3.75, 141.0, 18.0, 3.0, 2345.0, 58.0
+Champagne Parfaits with Pears and Raspberries , 0.0, 629.0, 36.0, 36.0, 194.0, 67.0
+Spiced Sugarplum and Caramelized Apple Tartlets with Calvados Cream , 4.375, 887.0, 131.0, 26.0, 668.0, 15.0
+Mashed Sweet Potato with Citrus , 4.375, 538.0, 6.0, 17.0, 63.0, 58.0
+Potato and Celery Root Gratin with Fontina Chee]se , 4.375, 348.0, 13.0, 19.0, 769.0, 85.0
+Cheddar Chutney Toasts , 3.75, 162.0, 6.0, 6.0, 289.0, 82.0
+Aromatic Shrimp And Noodle Medicine Soup , 0.0, 1951.0, 28.0, 33.0, 1779.0, 73.0
+Turkey Chili , 4.375, 798.0, 59.0, 50.0, 1590.0, 20.0
+Spring Carrots with Yellow Rice , 5.0, 197.0, 4.0, 7.0, 208.0, 68.0
+Maple Syrup-Soaked Doughnut Holes , 3.75, 79.0, 1.0, 4.0, 26.0, 25.0
+Chicken Soup Verde , 3.125, 399.0, 34.0, 17.0, 728.0, 48.0
+Chicken Liver Pâté , 3.125, 159.0, 12.0, 10.0, 69.0, 31.0
+Potato-Green Chile Gratin , 4.375, 391.0, 13.0, 11.0, 73.0, 37.0
+Stilton Toasts , 3.75, 42.0, 2.0, 3.0, 106.0, 24.0
+Lentil Soup with Minted Yogurt , 4.375, 254.0, 17.0, 5.0, 97.0, 39.0
+Creamy Rosemary Turkey and Vegetable Potpie with Herbed Dumplings , 4.375, 428.0, 35.0, 17.0, 611.0, 66.0
+Lefse , 0.0, 153.0, 3.0, 5.0, 124.0, 83.0
+Lemon-Mint Julep , 5.0, 248.0, 1.0, 0.0, 7.0, 67.0
+Frozen Mint Lemonade , 5.0, 107.0, 0.0, 0.0, 15.0, 90.0
+Spiced Pear Flatbreads with Goat Cheese and Mustard Cream , 2.5, 784.0, 34.0, 30.0, 757.0, 44.0
+Moroccan Lamb Tagine with Dates and Pearl Onions , 4.375, 802.0, 31.0, 64.0, 1014.0, 95.0
+Pear Cake with Grappa Sauce , 4.375, 5177.0, 81.0, 313.0, 3278.0, 97.0
+Green Beans and Celery Root Salad with Mustard Vinaigrette , 4.375, 109.0, 2.0, 7.0, 234.0, 100.0
+Grilled Yellow Squash with Oregano , 4.375, 219.0, 1.0, 17.0, 7.0, 21.0
+Egg Ribbon and Parmesan Soup , 3.75, 267.0, 22.0, 11.0, 454.0, 25.0
+Gochujang-Date Sauce , 5.0, 140.0, 4.0, 5.0, 1282.0, 96.0
+Roasted Asparagus with Balsamic Vinegar , 4.375, 82.0, 5.0, 4.0, 6.0, 16.0
+Green Beans with Olives , 3.125, 98.0, 2.0, 7.0, 48.0, 54.0
+Broccoli with Fennel and Red Bell Pepper , 3.75, 260.0, 13.0, 11.0, 177.0, 32.0
+Poisson Cru ("Tahitian Salad") , 3.75, 154.0, 19.0, 7.0, 330.0, 20.0
+Honey Mustard Dressing and Mixed Greens , 3.75, 232.0, 5.0, 19.0, 100.0, 96.0
+Italian Sausage Pasta Salad , 46.0, 4.0, 628.0, 5.0, 21.0, 151.0
+Fish Soup (Brodo di Pesce) , 4.375, 709.0, 43.0, 17.0, 405.0, 97.0
+Cajun-Style White Rice , 3.125, 234.0, 4.0, 0.0, 199.0, 82.0
+Paprika Rice , 0.0, 213.0, 4.0, 0.0, 27.0, 86.0
+Julia's and Jacques's Deglazing Sauce for Roast Chicken , 4.375, 67.0, 2.0, 1.0, 651.0, 74.0
+Sausage and Mushroom Penne Gratin , 3.75, 1106.0, 44.0, 40.0, 1460.0, 45.0
+Katniss's Favorite Lamb Stew with Dried Plums , 3.75, 618.0, 31.0, 16.0, 1593.0, 38.0
+Grilled Zucchini and Summer Squash Salad with Basil-Parmesan Dressing , 4.375, 178.0, 5.0, 13.0, 80.0, 68.0
+Grilled Tri-Tip Roast with Tequila Marinade and Cherry Tomato Relish , 3.125, 547.0, 4.0, 20.0, 253.0, 13.0
+Black-Eyed Pea and Bacon Salad with Mustard Vinaigrette , 3.75, 358.0, 9.0, 30.0, 373.0, 67.0
+Pastry Dough , 5.0, 233.0, 3.0, 16.0, 196.0, 46.0
+Mashed Potatoes with Fontina and Italian Parsley , 4.375, 281.0, 10.0, 14.0, 202.0, 71.0
+Chile-Rubbed Turkey , 1.25, 1307.0, 145.0, 75.0, 1456.0, 55.0
+White Bean and Vegetable Soup , 5.0, 592.0, 33.0, 42.0, 780.0, 70.0
+Fish Mixed Grill , 4.375, 209.0, 45.0, 2.0, 1301.0, 19.0
+Wild Mushroom Soup with Vegetable Confetti , 3.75, 1116.0, 46.0, 74.0, 1110.0, 81.0
+Rack of Lamb with Port and Black Olive Sauce , 0.0, 1578.0, 88.0, 133.0, 1891.0, 79.0
+Maytag Blue Cheese Souffles with Black Corinth Grapes and Muscat Grape Reduction , 3.125, 441.0, 17.0, 30.0, 526.0, 98.0
+Chanterelle Mushroom Gravy , 5.0, 203.0, 4.0, 12.0, 591.0, 53.0
+Asparagus Flans , 4.375, 165.0, 8.0, 13.0, 284.0, 88.0
+Italian Strawberry Tart , 3.75, 338.0, 5.0, 13.0, 213.0, 57.0
+Tarragon Pizza Bianca , 3.75, 400.0, 14.0, 21.0, 664.0, 56.0
+Sautéed Chicken Breasts With Country Ham and Sage Sauce , 3.125, 1218.0, 46.0, 110.0, 2913.0, 54.0
+Lemon Pepper Dressing , 4.375, 184.0, 0.0, 20.0, 137.0, 79.0
+Venetian-Style Bean and Pasta Soup , 3.75, 350.0, 7.0, 18.0, 548.0, 94.0
+Ginger-Hoisin Beef and Scallions on Crispy Noodle Cakes , 3.125, 85.0, 3.0, 6.0, 101.0, 21.0
+Patty Melts with Charred Onions , 0.0, 549.0, 10.0, 2.0, 291.0, 92.0
+Sautéed Savoy Cabbage with Scallions and Garlic , 3.125, 148.0, 4.0, 10.0, 55.0, 72.0
+Spicy Black Beans with Chorizo and Chipotle Cream , 4.375, 330.0, 15.0, 17.0, 240.0, 99.0
+African Adobo-Rubbed Tuna Steaks , 4.375, 766.0, 36.0, 43.0, 1330.0, 59.0
+Sauteed Trout with Pecans , 5.0, 553.0, 48.0, 38.0, 97225.0, 29.0
+Rosanne Cash's Potato Salad , 4.375, 334.0, 7.0, 20.0, 503.0, 69.0
+Pineapple Anise Sherbet , 4.375, 369.0, 2.0, 0.0, 7.0, 79.0
+Blueberry Compote , 4.375, 234.0, 1.0, 1.0, 4.0, 81.0
+White Horseradish Sauce , 3.75, 117.0, 1.0, 11.0, 74.0, 23.0
+Chocolate-Cognac Profiteroles with Raspberry Sauce , 3.75, 261.0, 9.0, 17.0, 148.0, 77.0
+Vinaigrette , 4.375, 220.0, 0.0, 25.0, 73.0, 15.0
+Coconut Lime Squares , 4.375, 165.0, 3.0, 7.0, 65.0, 47.0
+Halibut and Clams with Bell Peppers and Saffron , 4.375, 402.0, 48.0, 14.0, 787.0, 49.0
+Prune Kumquat Sticky Pudding with Armagnac Toffee Sauce , 3.125, 939.0, 78.0, 48.0, 675.0, 80.0
+Herbed-Cheese and Zucchini Omelet , 3.75, 507.0, 28.0, 39.0, 503.0, 22.0
+Fruitcake Trifle , 3.75, 1102.0, 81.0, 72.0, 505.0, 50.0
+Mini Meatballs in Saffron Sauce , 3.75, 56.0, 3.0, 4.0, 130.0, 95.0
+Fresh Hot-Pepper Paste , 3.75, 138.0, 1.0, 14.0, 339.0, 61.0
+Persimmon Cake with Cream Cheese Icing , 5.0, 409.0, 5.0, 17.0, 359.0, 39.0
+Honey-Orange Madeleines , 4.375, 133.0, 2.0, 8.0, 9.0, 43.0
+Sausage Patties with Cranberry-Kumquat Relish , 4.375, 605.0, 43.0, 31.0, 121.0, 26.0
+Linguine with Eggplant , 3.125, 495.0, 15.0, 18.0, 351.0, 22.0
+Veal Scaloppine with Mushroom Cream Sauce , 3.75, 416.0, 27.0, 18.0, 141.0, 70.0
+Roasted Quail with Juniper Berries and Balsamic Vinegar , 4.375, 634.0, 21.0, 24.0, 1158.0, 93.0
+Blueberry Compote , 4.375, 234.0, 1.0, 1.0, 4.0, 30.0
+Turkey Giblet Stock , 5.0, 116.0, 16.0, 5.0, 132.0, 51.0
+Thyme Garlic Butter , 5.0, 207.0, 0.0, 23.0, 172.0, 10.0
+Nonya Chicken Stock , 0.0, 52.0, 5.0, 4.0, 90.0, 14.0
+Veal Scallops with Mushrooms and Rosemary , 4.375, 323.0, 24.0, 20.0, 680.0, 49.0
+Chunky Guacamole , 3.75, 233.0, 3.0, 20.0, 212.0, 87.0
+Conference , 0.0, 88.0, 1.0, 0.0, 2.0, 98.0
+Lemon Meringue Ice Cream Pie in Toasted Pecan Crust , 3.75, 571.0, 9.0, 36.0, 129.0, 99.0
+Tuna Pasta Salad , 4.375, 498.0, 20.0, 25.0, 394.0, 65.0
+Beef Shank and Sausage Ragù with Whole Grain Spaghetti , 4.375, 791.0, 10.0, 50.0, 2550.0, 74.0
+Mulligatawny Soup , 4.375, 932.0, 12.0, 44.0, 821.0, 54.0
+Grilled Chicken Salad with Greens and Balsamic Dressing , 5.0, 655.0, 45.0, 48.0, 498.0, 62.0
+Thai-Spiced Pork Tenderloin with Orange Curry Sauce , 3.75, 656.0, 27.0, 24.0, 1102.0, 99.0
+German-Style Stuffed Kohlrabi , 4.375, 890.0, 59.0, 68.0, 1027.0, 16.0
+Pumpkin Bread Pudding with Spicy Caramel Apple Sauce , 3.125, 533.0, 48.0, 28.0, 1122.0, 53.0
+Cheddar Dill Puffs , 3.75, 38.0, 1.0, 3.0, 43.0, 74.0
+Apple Turnovers , 3.75, 567.0, 6.0, 42.0, 245.0, 72.0
+Brandy Milk Punch , 0.0, 262.0, 8.0, 8.0, 105.0, 24.0
+Poached Wild Salmon With Peas and Morels , 4.375, 700.0, 39.0, 42.0, 1809.0, 29.0
+Double-Layer Vanilla-Buttermilk Cake With Raspberries and Orange Cream-Cheese Frosting , 3.75, 355.0, 4.0, 22.0, 196.0, 10.0
+Potato Gratin with Bacon and Thyme , 4.375, 385.0, 9.0, 26.0, 586.0, 43.0
+Spiced Onion Marmalade , 4.375, 225.0, 2.0, 14.0, 72.0, 16.0
+Leek-Wrapped Pompano with Roasted Beet Sauce , 3.75, 103.0, 6.0, 3.0, 143.0, 21.0
+Sugarcane Marinade , 4.375, 293.0, 2.0, 1.0, 667.0, 91.0
+Rhubarb and Raspberry Jam Roly-Poly with Vanilla Custard Sauce , 4.375, 508.0, 6.0, 21.0, 358.0, 60.0
+Garlic Shrimp with Red Peppers and Wild Mushrooms , 3.75, 214.0, 10.0, 17.0, 330.0, 32.0
+Sushi Rice , 3.75, 191.0, 3.0, 0.0, 303.0, 37.0
+Tomato and Bacon Salad in Bibb Lettuce Cups , 3.75, 43.0, 1.0, 4.0, 49.0, 33.0
+Cheese Bread Zuder , 4.375, 299.0, 14.0, 15.0, 417.0, 42.0
+Roast Leg of Lamb with Rosemary and Garlic , 4.375, 862.0, 35.0, 36.0, 1571.0, 38.0
+House Vinaigrette , 4.375, 183.0, 0.0, 20.0, 147.0, 94.0
+Tortilla Espanola , 4.375, 773.0, 52.0, 42.0, 1005.0, 43.0
+Maple Walnut Pie , 4.375, 304.0, 5.0, 19.0, 128.0, 14.0
+Sweetened Whipped Cream , 4.375, 222.0, 1.0, 22.0, 23.0, 74.0
+Oven-Roasted Sea Bass with Ginger and Lime Sauce , 4.375, 281.0, 33.0, 15.0, 777.0, 51.0
+Basil Pesto , 4.375, 605.0, 25.0, 13.0, 349.0, 82.0
+Peppery Pasta with Feta Cheese , 4.375, 464.0, 17.0, 14.0, 425.0, 72.0
+Grilled Iceberg Wedges with Buttermilk-Basil Dressing , 3.75, 202.0, 5.0, 18.0, 805.0, 75.0
+Hotel Benson Eggs , 4.375, 703.0, 47.0, 49.0, 996.0, 92.0
+Orange-Champagne Sabayon , 3.75, 161.0, 4.0, 7.0, 14.0, 99.0
+Mocha Custard Tart , 4.375, 515.0, 8.0, 33.0, 240.0, 52.0
+Asparagus with Tomato Vinaigrette , 3.125, 227.0, 4.0, 22.0, 19.0, 63.0
+Antoinette's Gulyas , 1.25, 364.0, 21.0, 5.0, 369.0, 73.0
+Fettuccine With Sausage and Kale , 4.375, 602.0, 22.0, 39.0, 1673.0, 97.0
+Peppered Almonds , 3.75, 221.0, 8.0, 19.0, 196.0, 18.0
+Maple Sweet Potato Bread , 3.75, 1946.0, 32.0, 115.0, 672.0, 100.0
+Kahlúa-Spiked Frozen Mocha Lattes , 5.0, 258.0, 2.0, 13.0, 123.0, 42.0
+Chicken with Tomatillo Sauce and Braised Fruit , 3.75, 1111.0, 64.0, 17.0, 1747.0, 92.0
+Floradora , 0.0, 239.0, 0.0, 0.0, 18.0, 32.0
+Sea Bass with Onion and Cumin Sauce , 3.125, 319.0, 34.0, 14.0, 126.0, 92.0
+Chocolate Frosting , 3.75, 245.0, 1.0, 12.0, 5.0, 22.0
+Baked Potato Wedges with Seasoned Salt , 5.0, 791.0, 45.0, 52.0, 2061.0, 60.0
+Chive Oil , 0.0, 242.0, 0.0, 27.0, 60.0, 44.0
+Saffron Quinoa with Dried Cherries and Almonds , 4.375, 271.0, 7.0, 11.0, 283.0, 58.0
+Basil-Mint Oil , 4.375, 1013.0, 15.0, 55.0, 646.0, 22.0
+Jerusalem Artichoke Soup , 3.75, 379.0, 15.0, 13.0, 358.0, 97.0
+Raspberry Tart May , 4.375, 272.0, 4.0, 15.0, 79.0, 80.0
+rosii, 5.0, 0.0, 5.0, 0.0, 0.0, 2.0
+Arepas , 3.75, 344.0, 14.0, 7.0, 627.0, 68.0
+Oatmeal Wheat Bread , 4.375, 348.0, 5.0, 24.0, 330.0, 42.0
+Chicken Vindaloo , 5.0, 892.0, 28.0, 75.0, 731.0, 47.0
+Pavlovas with Fresh Berries , 0.0, 274.0, 5.0, 13.0, 120.0, 83.0
+Bedouin Salsa , 5.0, 155.0, 1.0, 14.0, 492.0, 75.0
+Celery Salad , 5.0, 550.0, 10.0, 44.0, 564.0, 28.0
+Raspberries and Blackberries in Red-Wine Syrup , 3.75, 125.0, 1.0, 1.0, 3.0, 50.0
+Dark Chocolate Orange Soufflé with White Chocolate Chunk Whipped Cream , 5.0, 657.0, 53.0, 16.0, 4991.0, 29.0
+Potato Salad Tofu Mayonnaise , 3.125, 315.0, 8.0, 15.0, 49.0, 24.0
+Gluten-Free Blueberry Corn Muffins , 3.75, 248.0, 4.0, 10.0, 391.0, 99.0
+Lime Tart with Blackberries and Blueberries , 4.375, 467.0, 7.0, 25.0, 81.0, 77.0
+Country Hash , 4.375, 479.0, 17.0, 35.0, 309.0, 20.0
+Heaven-and-Earth Tempura Cakes , 0.0, 155.0, 1.0, 12.0, 76.0, 30.0
+Red Snapper Chowder , 4.375, 341.0, 28.0, 9.0, 940.0, 81.0
+Quinoa and Asparagus Salad with Mimosa Vinaigrette , 5.0, 239.0, 7.0, 13.0, 323.0, 46.0
+ieii, 111.0, 9.375, 3287.0, 122.0, 230.0, 354.6
+Spicy Caramel Apple Sauce , 4.75, 431.0, 1.0, 11.0, 15.0, 78.0
+Sambuca Brownies , 3.75, 261.0, 3.0, 15.0, 119.0, 93.0
+Corn and Cheese Soft Tacos , 4.375, 966.0, 118.0, 42.0, 1118.0, 19.0
+Pasta alla Norma , 3.75, 677.0, 8.0, 61.0, 298.0, 53.0
+Creamed Chicken with Corn and Bacon Over Polenta , 4.375, 745.0, 51.0, 40.0, 2467.0, 21.0
+Old-Fashioned Potato Salad , 3.75, 865.0, 7.0, 74.0, 137.0, 28.0
+Homemade Grenadine , 0.0, 228.0, 0.0, 0.0, 6.0, 70.0
+Flaky Pie Crust Dough , 5.0, 1529.0, 167.0, 82.0, 3597.0, 74.0
+Fresno Chile Hot Sauce , 0.0, 63.0, 3.0, 1.0, 350.0, 82.0
+Spicy Gumbo-Laya , 4.375, 582.0, 29.0, 47.0, 493.0, 35.0
+Perfect Steamed Rice , 5.0, 207.0, 4.0, 0.0, 7.0, 47.0
+Giant Southwestern Omelet , 3.125, 678.0, 10.0, 32.0, 317.0, 65.0
+Spicy Caramel Apple Sauce , 3.75, 431.0, 1.0, 11.0, 15.0, 43.0
+Foamy White Steamed Rice and Bean Dumplings , 4.375, 207.0, 4.0, 9.0, 21.0, 26.0
+Spanish Crusted Roast Pork Tenderloin , 4.375, 237.0, 21.0, 13.0, 108.0, 71.0
+Cherry and Peach Compote , 0.0, 232.0, 1.0, 0.0, 16.0, 98.0
+Pistachio-Crusted Arctic Char , 5.0, 583.0, 6.0, 28.0, 254.0, 90.0
+Beer-Brined Grilled Pork Chops , 3.75, 429.0, 42.0, 18.0, 3886.0, 76.0
+Rosii, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0
+Blue Cheese Potato Salad , 4.375, 437.0, 9.0, 29.0, 620.0, 64.0
+Shrimp-Stuffed Portobello Mushrooms , 5.0, 395.0, 15.0, 30.0, 653.0, 73.0
+Berry Compote with Crispy Won Ton Strips and Vanilla Ice Cream , 5.0, 596.0, 34.0, 50.0, 221.0, 80.0
+Wilted Spinach Salad with Warm Apple Cider and Bacon Dressing , 4.375, 263.0, 8.0, 18.0, 348.0, 34.0
+Lamb Bacon , 3.75, 174.0, 14.0, 11.0, 2430.0, 45.0
+Field Greens with Red Chili Dressing , 4.375, 157.0, 2.0, 15.0, 73.0, 50.0
+Beef Tenderloin and Vegetable Pot Pies , 3.125, 1743.0, 23.0, 106.0, 273.0, 88.0
+Leg of Lamb With Garlic and Rosemary , 3.75, 838.0, 51.0, 60.0, 1963.0, 63.0
+Grandmother Walters's Biscuits , 4.375, 135.0, 3.0, 6.0, 257.0, 82.0
+Strip Steak With Lemony Yogurt and Radishes , 5.0, 588.0, 7.0, 35.0, 189.0, 55.0
+Honey Mustard Sauce , 3.125, 285.0, 5.0, 25.0, 419.0, 24.0
+Fig and Walnut Tapenade with Goat Cheese , 4.375, 98.0, 4.0, 6.0, 154.0, 33.0
+Lima Beans with Wild Mushrooms and Chard , 3.75, 243.0, 13.0, 4.0, 70.0, 32.0
+Flemish Beef Stew , 5.0, 941.0, 13.0, 64.0, 67.0, 81.0
+Whole Baked Yams with Spicy Molasses Butter , 4.375, 485.0, 4.0, 16.0, 140.0, 14.0
+Cranberry-Apple Crumble Pie , 4.375, 530.0, 20.0, 27.0, 655.0, 49.0
+abc, 1.625, 1819.0, 76.0, 86.0, 1512.0, 135.0
+Arugula-Stuffed Leg of Lamb with Roasted Spring Vegetables , 4.375, 1763.0, 191.0, 98.0, 592.0, 92.0
+Bittersweet Chocolate Irish Whiskey Cake , 4.375, 369.0, 9.0, 28.0, 72.0, 70.0
+Strawberries with Cassis , 3.75, 179.0, 1.0, 6.0, 8.0, 17.0
+Japanese Cucumber Salad with Vinegar , 3.75, 40.0, 1.0, 0.0, 1654.0, 43.0
+Lamb Chops with Sun-Dried Tomato Butter , 0.0, 6929.0, 56.0, 140.0, 837.0, 67.0
+Peanut Butter Chocolate Ripple Ice Cream , 4.375, 255.0, 7.0, 16.0, 23.0, 90.0
+Chicken-Filled Pastry (B'steeya) , 4.375, 416.0, 28.0, 24.0, 252.0, 26.0
+Merry Widow II , 0.0, 134.0, 0.0, 0.0, 3.0, 79.0
+Braised Chicken with Celery Root and Garlic , 3.75, 889.0, 45.0, 42.0, 486.0, 96.0
+Mint-Chili Sauce , 3.75, 262.0, 2.0, 11.0, 699.0, 64.0
+Simple Spinach Dip , 0.0, 302.0, 7.0, 27.0, 553.0, 58.0
+Grilled Flank Steak , 4.375, 465.0, 36.0, 34.0, 674.0, 12.0
+Mahimahi with Brown-Sugar Soy Glaze , 5.0, 231.0, 33.0, 7.0, 995.0, 52.0
+Apple "Flag" Tart , 1.25, 304.0, 2.0, 10.0, 174.0, 17.0
+Potato Latkes , 5.0, 200.0, 2.0, 15.0, 231.0, 76.0
+Succotash , 4.375, 231.0, 8.0, 7.0, 105.0, 93.0
+Molasses Corn Bread , 3.75, 247.0, 4.0, 11.0, 269.0, 76.0
+Salmon with Bacon and Lentils , 3.125, 870.0, 37.0, 36.0, 599.0, 91.0
+Bubby's Granola , 2.5, 407.0, 10.0, 11.0, 23.0, 48.0
+Turkey Stock , 5.0, 140.0, 23.0, 4.0, 103.0, 58.0
+Roasted Yellow Pepper Soup and Roasted Tomato Soup with Serrano Cream , 5.0, 233.0, 8.0, 13.0, 67.0, 15.0
+Strawberry Shortcakes , 4.375, 278.0, 4.0, 17.0, 290.0, 26.0
+Chocolate Cake with Milk Chocolate-Peanut Butter Frosting and Peanut Butter Brittle , 4.375, 1380.0, 48.0, 95.0, 4606.0, 99.0
+Cherry Tortoni , 5.0, 397.0, 4.0, 22.0, 220.0, 63.0
+Halibut with Olive Tarragon Bread Crumbs on Roasted Tomato and Garlic Coulis , 4.375, 428.0, 37.0, 17.0, 443.0, 21.0
+Happy Apple Rum Twist , 3.75, 144.0, 0.0, 0.0, 9.0, 24.0
+Baby Greens with Warm Goat Cheese , 4.375, 386.0, 16.0, 31.0, 722.0, 23.0
+Red-Braised Pork (Hong Shao Rou) , 3.75, 283.0, 6.0, 26.0, 372.0, 15.0
+Mango-Cucumber Wine Cooler , 5.0, 169.0, 1.0, 0.0, 6.0, 21.0
+Cuban Grilled Pork (Lechon Asado) , 0.0, 830.0, 9.0, 14.0, 250.0, 50.0
+Swiss Chard with Roasted Pepper , 3.75, 123.0, 5.0, 7.0, 605.0, 41.0
+Grilled Lamb Kebabs with Coriander and Cumin , 3.125, 880.0, 55.0, 62.0, 1487.0, 24.0
+Galician Pie , 4.375, 827.0, 15.0, 75.0, 219.0, 72.0
+Sausage and Leek Soup , 4.375, 288.0, 9.0, 18.0, 122.0, 91.0
+Honeydew Cucumber Smoothie , 5.0, 147.0, 6.0, 4.0, 81.0, 79.0
+Mustard-Crusted Pork Loin With Apple–Cabbage Slaw , 3.125, 360.0, 37.0, 17.0, 925.0, 77.0
+Caramel Chocolate Ganache , 5.0, 261.0, 2.0, 17.0, 9.0, 38.0
+Spicy Grilled Chicken with Lemon and Parsley , 5.0, 1074.0, 76.0, 72.0, 608.0, 21.0
+Picnic Meat Loaf , 1.25, 393.0, 25.0, 29.0, 248.0, 17.0
+Orange Tart with Orange Cream and Pistachios , 3.75, 356.0, 7.0, 18.0, 213.0, 50.0
+Sicilian-Style Pasta with Sardines , 3.125, 966.0, 15.0, 39.0, 1077.0, 93.0
+White Bean and Escarole Soup with Spicy Polenta , 1.875, 479.0, 15.0, 27.0, 415.0, 88.0
+Garlic and Sage Marinated Antipasto , 3.75, 395.0, 13.0, 32.0, 688.0, 78.0
+Breakfast Empañadas , 3.75, 1557.0, 96.0, 87.0, 1604.0, 78.0
+Halibut in Hazelnut Romesco with Potatoes , 4.375, 486.0, 37.0, 30.0, 424.0, 67.0
+Moroccan-Style Chicken Pie , 5.0, 944.0, 50.0, 75.0, 380.0, 79.0
+Phyllo-Wrapped Salmon with Leeks and Red Bell Pepper , 4.375, 593.0, 47.0, 40.0, 318.0, 77.0
+Brussels Sprouts with Golden Onion , 3.75, 130.0, 5.0, 6.0, 107.0, 95.0
+Ardei, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0
+Anything Goes Donabe , 5.0, 412.0, 40.0, 17.0, 1778.0, 35.0
+Peach Mustard , 3.125, 134.0, 4.0, 3.0, 1394.0, 99.0
